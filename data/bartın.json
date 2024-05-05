@@ -1,0 +1,153 @@
+{
+    "BARTIN": [   
+        {
+            "yemek_adi": "Pirinçli Bartın Mantısı",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Hamuru İçin": {
+                "Un": "1 kg",
+                "Yumurta": "2 adet",
+                "Tuz": "Miktarına göre",
+                "Su": "Miktarına göre"
+              },
+              "Harcı İçin": {
+                "Kıyma": "1 kg",
+                "Soğan": "3 adet",
+                "Pirinç": "1 su bardağı",
+                "Maydanoz": "1 bağ",
+                "Tuz": "Miktarına göre",
+                "Karabiber": "Miktarına göre",
+                "Su": "1 çay bardağı",
+                "Margarin": "1 yemek kaşığı",
+                "Sıvıyağ": "2 yemek kaşığı",
+                "Tavuk suyu": "Miktarına göre"
+              }
+            },
+            "yapilis": [
+              "Unu tepsiye yayınız, ortasına bir çukur açıp yumurtayı ekledikten sonra yoğurmaya başlayınız. Suyu 2-3 bölümde içine yedirerek yoğurmaya devam ediniz. Hamur ele yapışmaz duruma geldikten sonra üzerini folyoyla kapatarak dinlenmeye bırakınız.",
+              "Bir tavaya sıvıyağı ve margarini koyunuz, margarin eriyince küp doğramış olduğunuz soğanları ekleyerek kavurunuz. 5 dakika sonra kıyma ve baharatları ekleyerek kavurmaya devam ediniz. Bu karışımın içine önce pirinç sonrasında su ilave ediniz. Karışım suyunu çektikten sonra ince doğranmış maydanozları ekleyerek kenara alınız.",
+              "Dinlendirmeye bırakmış olduğunuz hamuru oklavayla açınız, açarken yapışmaması için un kullanınız. Açtığınız hamuru 3-4 cm büyüklüğünde kare olarak kesiniz.",
+              "İçine hazırladığınız harçtan 5 gr koyarak bohça şekli veriniz.",
+              "Önceden yağlanmış tepsiye mantılarınızı diziniz.",
+              "Önceden 180 dereceye ısıtılmış fırında 30-40 dakika arasında pişiriniz. (Mantıların dış yüzeyleri sertleşmelidir)",
+              "Pişen mantıyı fırından çıkardıktan sonra, üzerine sıcak tavuk suyu dökünüz.",
+              "Başka bir tepsiyle üzerini kapatarak mantının et suyunu çekmesi için bekleyiniz.",
+              "Soğuyan mantıyı servis ediniz."
+            ]
+          },
+          {
+            "yemek_adi": "Köy Tavuklu Börek",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Ev Yapımı Kuru Yufka": "6 adet",
+              "Köy Tavuğu": "1 adet",
+              "Su": "4 litre",
+              "Tuz": "Miktarına göre",
+              "Tereyağ": "3 yemek kaşığı"
+            },
+            "yapilis": [
+              "Köy tavuğu, su ve tuz ilave edilerek düdüklü tencerede 40 dakika kadar pişirilir.",
+              "Yufkalar suda ıslatılır biraz bekletilir.",
+              "Tepsiye tereyağı sürülür, yufkadan bir kat serilir, üzerine ufak parçalar halinde tereyağı koyulur, tavuk suyu gezdirilir. Çok ıslak veya çok kuru olmamalı.",
+              "Bütün katlar bu şekilde hazırlanır.",
+              "Ocakta çevirerek iki tarafı da pişirilir. Fırında da pişirebilirsiniz fakat ocakta daha lezzetli oluyor.",
+              "Pişen böreğin üzerine tekrar hafifçe tavuk suyu gezdirilir.",
+              "Tavuk parçalanarak üzerine yerleştirilir.",
+              "Afiyet olsun. Tarif Batı Karadeniz bölgemize aittir. Market tavuğu ile denemeyin. Doğal tavuk bulamıyorsanız tarifi uygulamayın."
+            ]
+          },
+          {
+            "yemek_adi": "Pumpum Çorbası",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Mısır Unu": "1 su bardağı",
+              "Et Suyu veya Su": "5 su bardağı",
+              "Kavurma": "2 dilim",
+              "Tuz": "Miktarına göre",
+              "Üzeri İçin": {
+                "Tereyağ": "2 yemek kaşığı",
+                "Kırmızıbiber": "1 tatlı kaşığı"
+              }
+            },
+            "yapilis": [
+              "Bir tencereye su ve mısır ununu koyup kaynayana kadar karıştırın.",
+              "Kavurmayı tavada 2-3 dakika kavurun, kaynayıp koyulaşan çorbanın üzerine ekleyip karıştırın.",
+              "Tuzunu ayarlayın, tereyağ ve kırmızıbiberi yakıp çorbanın üstüne gezdirin.",
+              "Sıcak servis edin. Afiyet olsun."
+            ]
+          },
+          {
+            "yemek_adi": "Yumurtalı Ispıt",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Ispıt": "Yarım kg",
+              "Kuru Soğan": "3-4 adet",
+              "Yumurta": "3-4 adet",
+              "Sıvıyağ": "4-5 yemek kaşığı",
+              "Tuz": "Miktarına göre",
+              "Pulbiber": "Miktarına göre",
+              "Karabiber": "Miktarına göre"
+            },
+            "yapilis": [
+              "Ispıtlar yıkanıp, haşlanır ve süzülür.",
+              "İnce ince doğranan kuru soğanlar sıvıyağında kavrulur. Pul biberi eklenir.",
+              "Birkaç dakika daha kavrulduktan sonra haşlanan ıspıtlar ilave edilir. 5 dakika daha kavrulur.",
+              "Üzerine yumurta kırılır. Tuzu ve karabiberi ilave edilir ve tekrar pişmeye bırakılır.",
+              "Piştikten sonra servis edilir."
+            ]
+          },
+          {
+            "yemek_adi": "Erik Yemeği",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Kuşbaşı Et": "Yarım kg",
+              "Taze Soğan": "Yarım demet",
+              "Can Erik": "1 kg",
+              "Sıvı Yağ": "1 fincan",
+              "Domates Salçası": "1 kaşık",
+              "Biber Salçası": "1 kaşık",
+              "Tuz": "Miktarına göre"
+            },
+            "yapilis": [
+              "Bir tencere içerisine sıvı yağ eklenir ve önceden haşlanmış etler yağ içerisinde kavrulur.",
+              "Salçalar ilave edilir.",
+              "Yeşil soğanlar doğranır, eriklerin sapları çıkarılır ve temizlenir.",
+              "Yeşil soğanlar ve erikler de pişen ete ilave edilir.",
+              "Malzemeleri geçecek kadar su ve tuz eklenir ve yemeğimiz pişirilmeye devam edilir.",
+              "Sıcak bir şekilde servis edilir."
+            ]
+          },
+          {
+            "yemek_adi": "Döşemeli Mancar",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Mancar (Kara Lahana)": "2 kök (1 kg)",
+              "Bulgur": "Yarım su bardağı",
+              "Pirinç": "Yarım su bardağı",
+              "Mısır Tarhanası (Kırılmış Mısır)": "Yarım su bardağı",
+              "Soğan": "3 baş",
+              "Kırmızı Biber": "2 adet",
+              "Salça": "1 yemek kaşığı",
+              "Pulbiber": "1 çay kaşığı",
+              "Karabiber": "1 çay kaşığı",
+              "Sıvıyağ": "Yarım su bardağı",
+              "Tuz": "Miktarına göre",
+              "Su": "Miktarına göre",
+              "Üzeri İçin": {
+                "Tereyağı": "250 g",
+                "Sıvıyağ": "Yarım su bardağı",
+                "Soğan": "1 baş",
+                "Su": "Miktarına göre"
+              }
+            },
+            "yapilis": [
+              "Doğranan mancarlar kaynayan suyun içinde haşlanır ve süzülür.",
+              "Mancar haricinde bütün malzemeler ayrı bir kapta karıştırılır.",
+              "Boş bir tencerenin içine bir sıra haşlanmış mancar, bir sıra hazırlanan karışım döşenir. Bu işlem üç kat ve karışım en üste gelecek şekilde yapılır.",
+              "Daha sonra hazırlanan yağlı su yemeğin üstüne çıkacak şekilde dökülür.",
+              "Suyu çekene kadar yemek kısık ateşte pişirilir."
+            ]
+          }
+    ]
+  }
+  

@@ -1,0 +1,171 @@
+{
+    "GAZİANTEP": [
+        {
+  "yemek_adi": "Alinazik",
+  "kategori": "yemek",
+  "malzemeler": {
+    "Kuzu Eti veya Kıyma": "150 gr kuşbaşı veya zırh kıyması",
+    "Patlıcan": "2 adet (közde pişmiş)",
+    "Süzme Yoğurt": "200 gr",
+    "Tereyağı": "50 gr",
+    "Pulbiber": "Yarım çay kaşığı",
+    "Tuz": "Bir çay kaşığı",
+    "Sarımsak": "3 diş"
+  },
+  "yapilis": ["Patlıcanlar fırında veya küllenmiş közde pişirilir ve kabukları soyulup kuşbaşı şeklinde doğranır.",
+   "Sarımsak ezilip tuzu atılır, süzme yoğurdun içine konur ve karıştırılarak Alinazik sosu hazırlanır.",
+   "İsteğe göre kuşbaşı veya zırh kıyması ya tavada ya da kebap şeklinde ızgarada pişirilir. Pişirilen et Alinazik sosunun üzerine dökülür.",
+   "İyice ısıtılmış tereyağının içine yarım çay kaşığı biber katılır. Bu yağ Alinaziğin üzerine dökülüp servis yapılır."]
+},
+{
+    "tarif_adı": "Lebeniye Çorbası (Gaziantep Usulü)",
+    "kategori": "çorba",
+    "malzemeler": {
+      "çorba": {
+        "pirinç": "2 yemek kaşığı",
+        "haşlanmış nohut": "1 su bardağı",
+        "yoğurt": "1,5 su bardağı",
+        "un": "2 yemek kaşığı",
+        "tuz": "Tuz miktarına göre",
+        "limon suyu": "Yarım limon suyu",
+        "su": "5,5 su bardağı"
+      },
+      "üzeri için": {
+        "kıyma": "200 gr",
+        "soğan": "1 adet",
+        "tuz": "Tuz miktarına göre",
+        "karabiber": "Karabiber miktarına göre",
+        "tereyağı": "2 yemek kaşığı",
+        "nane": "1 tatlı kaşığı"
+      }
+    },
+    "yapılışı": [
+      "Pirinci yıkayın ve 1 su bardağı su ile pişirin.",
+      "Pişen pirinçlerin üzerine kalan 4,5 su bardağı suyu da ekleyerek kaynatın. Kaynamaya başladığında haşlanmış nohutları ekleyin.",
+      "Bir kasede yoğurt, un ve limon suyunu karıştırın.",
+      "Kaynayan çorbadan 1 kepçe alıp kasedeki yoğurtlu karışımla karıştırın ve bu karışımı çorbanın üzerine yavaşça dökün. İyice karıştırın.",
+      "Köfteleri hazırlamak için kıymayı, rendelenmiş soğanı, tuzu ve karabiberi yoğurun. Nohut büyüklüğünde toplar yapın.",
+      "Tereyağını bir tavada eritin ve köfteleri kızartın. Üzerine naneyi ekleyin.",
+      "Pişen çorbanın üzerine kızarmış köfteleri ve tereyağını gezdirin."
+    ]
+  },
+  {
+    "tarif_adı": "Doğrama (Gaziantep Yöresi)",
+    "kategori": "yemek",
+    "malzemeler": {
+      "nohut": "1 çay bardağı",
+      "yemeklik parça et": "150 gram",
+      "su": "2 litre",
+      "acı biber salçası": "2 yemek kaşığı",
+      "yeşil biber": "1 orta boy",
+      "kuru soğan": "1 orta boy",
+      "domates": "2 orta boy",
+      "sarımsak": "5-6 diş",
+      "patlıcan": "4 adet",
+      "tuz": "1 tutam",
+      "karabiber": "1 tutam",
+      "limon tuzu": "1 çay kaşığı",
+      "zeytin yağı": "yarım çay bardağı",
+      "kuru nane": "1 yemek kaşığı"
+    },
+    "yapılışı": [
+      "Nohut, et ve suyu düdüklü tencereye koyun. Altını yüksek ateşte açın.",
+      "Etin kefini yüzeyinden alın.",
+      "Su kaynayınca altını kısın ve tencerenin kapağını kapatın. Yaklaşık 40 dakika pişirin.",
+      "Daha sonra tencerenin içerisine salça, ufak doğranmış soğan ve biberleri ekleyin. 15 dakika daha haşlayın.",
+      "Bu sırada patlıcanları soyup şeritler halinde kesin, sonra ikiye bölüp küçük parçalar haline getirin.",
+      "Domatesleri küçük küçük doğrayıp patlıcanlarla birlikte tencereye ekleyin.",
+      "Sarımsakları ezin ve ekleyin.",
+      "Tuz, karabiber ve limon tuzunu da ekleyin.",
+      "Yaklaşık yarım saat daha altı kısık şekilde pişirin.",
+      "Patlıcanlar pişince yemeği temiz bir tencereye alın.",
+      "Bir tavada zeytinyağı ve kuru naneyi karıştırarak cızırdayana kadar ısıtın. Sıcak yemeğin üzerine dökün."
+    ]
+  },
+  {
+    "tarif_adı": "Antep Usulü Yoğurtlu Patates",
+    "kategori": "yemek",
+    "malzemeler": {
+      "patates": "1 kg",
+      "nohut": "1 su bardağı (geceden ıslatılmış)",
+      "kuşbaşı eti": "500 gram",
+      "süzme yoğurt": "3 su bardağı",
+      "sıvı yağ": "1 çay bardağı",
+      "yumurta": "1 adet",
+      "nane veya haspir": "1 yemek kaşığı",
+      "tuz": "Miktarı gerektiği kadar",
+      "karabiber": "Miktarı gerektiği kadar"
+    },
+    "yapılışı": [
+      "Et, nohut ve tuz aynı tencerede üzerini geçecek şekilde su eklenerek pişirilir. Pişme esnasında oluşan köpük alınır.",
+      "Patatesler soyulup iri küp halinde doğranır. Patatesler pişmiş et ve nohut ile karıştırılır.",
+      "Patatesler pişinceye kadar pişirme işlemi devam eder.",
+      "Yoğurdun içine yumurta kırılıp iyice çırpılır.",
+      "Pişmiş et ve nohut suyu da eklenerek iyice çırpılır.",
+      "Yavaş yavaş yoğurt eklenir ve kaynar gibi olunca altı kapatılır.",
+      "Yağ kızgınlaşınca nanenin veya haspirin de eklenerek kavurulur ve üzerine gezdirilir. Afiyet olsun."
+    ]
+  },
+  {
+    "tarif_adı": "Antep Usulü Beyran",
+    "kategori": "çorba",
+    "malzemeler": {
+      "etli kemik": "Miktarı gerektiği kadar",
+      "pirinç": "2 su bardağı",
+      "salça": "2 yemek kaşığı",
+      "pul biber": "2 tatlı kaşığı",
+      "karabiber": "1 tatlı kaşığı",
+      "sarımsak": "4 diş"
+    },
+    "yapılışı": [
+      "Etli kemik düdüklü tencerede 2 saat pişirilir ve suyu ayrı bir tencereye alınır.",
+      "Ayrı tenceredeki et suyuna salça eklenir ve baharatlar özleşmesi için bir taşım kaynatılır.",
+      "Başka bir tencerede pirinçler haşlanır ve et suyuna ilave edilir.",
+      "Etler didiklenerek içine atılır.",
+      "Son olarak, sarımsak ezilerek ilave edilir ve altı kapatılır."
+    ]
+  },
+  {
+    "tarif_adı": "Gaziantep Katmeri",
+    "kategori": "tatlı",
+    "malzemeler": {
+      "baklavalık yufka": "1 adet",
+      "çekilmiş antep fıstığı": "1 avuç",
+      "şeker": "2-3 yemek kaşığı",
+      "tereyağı": "Miktarı gerektiği kadar",
+      "kaymak": "Miktarı gerektiği kadar"
+    },
+    "yapılışı": [
+      "Yufkayı alıp, tam ortasına 25*25 cm lik alanı kaplayacak şekilde tereyağını sürün.",
+      "Üzerine fıstığı serpip şekeri eşit miktarda serpiştirin.",
+      "Sonra parça parça sade kaymak koyun.",
+      "Önce dikdörtgen, en son kare olacak biçimde katlayın.",
+      "Tereyağı sürdüğünüz geniş bir tavada kısık ateşte sürekli kontrol ederek nar gibi kızartın.",
+      "Servis tabağına alıp dilimleyerek üzerine fıstık ve kaymak koyarak sıcak servis yapın."
+    ]
+  },
+  {
+    "tarif_adı": "Gaziantep'imin Meşhur Zeytin Böreği",
+    "kategori": "yemek",
+    "malzemeler": {
+      "yeşil zeytin": "1 tabak dolusu (çekirdeksiz, tuzsuz, acı suyunu değiştirerek tatlandırılmış)",
+      "soğan": "4 adet (iri boy)",
+      "maydanoz": "1 demete yakın",
+      "biber": "2 adet",
+      "ceviz": "5 adet (isteğe göre)",
+      "salça": "1 tatlı kaşığı",
+      "karabiber": "1 tatlı kaşığı",
+      "toz kırmızı biber": "1 tatlı kaşığı",
+      "tuz": "Miktarı damak tadınıza göre"
+    },
+    "yapılışı": [
+      "Zeytinleri küçük küçük doğrayın veya blenderdan geçirin.",
+      "Soğan ve biberleri yağda pembeleşene kadar kavurun.",
+      "Kavrulan soğan ve biberlere doğradığınız zeytinleri ekleyin, 5-10 dakika daha kavurun.",
+      "Baharatları ve tuzu ekleyerek karıştırın, ocağın altını kapatın.",
+      "İnce kıyılmış maydanoz ve cevizi ekleyip karıştırın.",
+      "Karışımı hamurla birleştirip fırına verin. Dilerseniz hamuru kendiniz de yapabilirsiniz."
+    ]
+  }
+
+    ]}

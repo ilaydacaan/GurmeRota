@@ -1,0 +1,134 @@
+{
+    "Afyon": [
+      {
+        "yemek_adi": "Ağzıaçık",
+        "kategori": "yemek",
+        "malzemeler": {
+          "un": "12 su bardağı",
+          "ılık su": "Miktarı isteğe göre",
+          "tuz": "Miktarı isteğe göre",
+          "iç yağ üzerine sıvı yağ": "Miktarı isteğe göre",
+          "Peynirli iç için": {
+            "peynir": "Miktarı isteğe göre",
+            "maydanoz": "Miktarı isteğe göre",
+            "karabiber": "Miktarı isteğe göre",
+            "yumurta": "3 adet"
+          },
+          "Kıymalı iç için": {
+            "kıyma": "Miktarı isteğe göre",
+            "maydanoz": "Miktarı isteğe göre",
+            "karabiber": "Miktarı isteğe göre",
+            "tuz": "Miktarı isteğe göre",
+            "yumurta": "3 adet"
+          }
+        },
+        "yapılış": [
+          "Un, su ve tuz yoğrularak hamur hazırlanır ve 15 dakika dinlendirilir.",
+          "Bu hamurdan 4 bezeye ayrılır.",
+          "İlk bezeyi açıp yağlanır ve dörde katlanır.",
+          "Ardından ikinci bezeyi açıp yağlanır ve üzerine katlanmış ilk bezeyi yerleştirip tekrar dörde katlanır.",
+          "Diğer iki bezede aynı şekilde işlemler uygulanır.",
+          "Sonuç olarak iki bezeyi iç içe olacak şekilde hazırlanır.",
+          "İlk bezeyi 12 parçaya bölünür ve her parça oklava yardımıyla açılarak iç harçtan konulur ve kapatılır.",
+          "Tüm bezeler bu şekilde hazırlanır ve tepsiye sıralanır.",
+          "Üzerlerine yağ sürülerek fırında pişirilir."
+        ]
+      },
+      {
+        "yemek_adi": "Bükme",
+        "kategori": "yemek",
+        "malzemeler": {
+          "Hamuru için": {
+            "un": "3 su bardağı",
+            "ılık su": "1 su bardağı",
+            "üzüm sirkesi": "1 yemek kaşığı",
+            "tuz": "1 çay kaşığı"
+          },
+          "Hamur katlarına sürmek için": {
+            "ezilmiş haşhaş": "3 yemek kaşığı",
+            "sıvı yağ": "1 çay bardağı"
+          },
+          "Mercimekli iç harç için": {
+            "haşlanmış yeşil mercimek": "1 su bardağı",
+            "doğranmış maydanoz": "1/4 demet",
+            "tuz": "1/4 çay kaşığı",
+            "karabiber": "1/4 çay kaşığı",
+            "pul biber": "1/2 tatlı kaşığı"
+          }
+        },
+        "yapılış": [
+          "Elenmiş unu derin bir karıştırma kabına alın. Orta kısmını parmak uçlarınızla havuz şeklinde açıp ılık su, üzüm sirkesi ve tuzu ekleyin. Tüm malzemeyi orta kısımlardan kenarlara doğru karıştırıp kulak memesi yumuşaklığında bir hamur elde edene kadar yoğurun. Üzerine hafif nemli bir bez örtüp oda sıcaklığında, 30 dakika kadar dinlendirin.",
+          "Kullanacağınız haşhaşı bir havanda dövüp kalın tabanlı bir tavada, kısık ateşte ısıtın. Sonrasında ocaktan alıp soğuttuktan sonra sıvı yağla karıştırın.",
+          "Oda sıcaklığında dinlenen hamuru, ortadan ikiye kesip merdane ya da oklava yardımıyla yufkadan daha kalın olacak şekilde açın. Açtığınız ilk hamurun üzerine yağlı haşhaş karışımını sürüp dört kenarından zarf şeklinde katlayın.",
+          "Diğer hamuru da aynı şekilde açıp kalan haşhaşlı karışımı üzerine sürdükten sonra zarf şeklinde katladığınız ilk hamuru da orta kısmına alıp yine zarf şeklinde kapatın.",
+          "Hazırladığınız hamuru öncelikle altı eşit parçaya bölün. Sonrasında her bir hamur parçasını da iki eşit parçaya bölüp on iki adet hamur bezesi elde edin.",
+          "İç harcı için; haşlanmış yeşil mercimek, doğranmış maydanoz, tuz, karabiber ve pul biberi ayrı bir kasede karıştırın.",
+          "İnce ince açtığınız haşhaşlı hamur bezelerinin her birine hazırladığınız mercimekli iç harçtan yerleştirip rulo şeklinde sarın.",
+          "Mercimekli bükme rulolarını hafif aralıklarla fırın tepsisine dizip üzerlerini yağlayın. Önceden ısıtılmış 180-200 derece fırında, üzerleri kızarıp renk alana kadar pişirin. Ilık ya da soğuk olarak servis edin."
+        ]
+      },
+      {
+        "yemek_adi": "Patlıcan Böreği (Afyon Usulü)",
+        "kategori": "yemek",
+        "malzemeler": {
+          "Patlıcan Böreği İçin": {
+            "patlıcan": "4 tane irice",
+            "kuru soğan": "3 tane",
+            "kıyma": "400 gram",
+            "maydanoz": "Yarım bağ",
+            "yumurta": "4 tane + 1 yumurta beyazı harcın içine, sarısı ise üzerine sürülecek",
+            "tuz": "Miktarı isteğe göre",
+            "karabiber": "Miktarı isteğe göre",
+            "pul biber": "1 kahve kaşığı"
+          },
+          "Üzeri için": {
+            "domates": "3 tane",
+            "yeşil biber": "1 tane iri",
+            "tereyağı": "Yarım yemek kaşığından biraz fazla"
+          },
+          "Kızarmak için": {
+            "sıvı yağ": "Miktarı isteğe göre"
+          }
+        },
+        "yapılış": [
+          "Patlıcanları alacalı soyup, kuşbaşı doğrayıp, tuz serpip, üzerini su ile dolduralım ve yarım saat bekletelim.",
+          "Yarım saat sonra, süzgece koyalım suyu süzülsün. Kızartma öncesi kağıt havlu ile suyunu alalım.",
+          "Tencereye yeteri miktarda sıvı yağ koyup ısıtalım.",
+          "Yağ ısınınca, patlıcanları hafif kızartalım.",
+          "Kızaran patlıcanları bir süzgece koyalım, fazla yağları süzülsün.",
+          "Bir kabın içine soğanları rendeleyelim, kıymayı, doğranmış maydanozu, tuz karabiber, pul biber ekleyip karıştıralım.",
+          "Bir kaba yumurtaları kırıp, çatalla hafif çırpıp, kıymaya ekleyip karıştıralım. Patlıcanları da ekleyip, iyice yoğuralım.",
+          "Tereyağı ile yağladığımız küçük dikdörtgen borcama harcı döküp, elimizle bastıralım.",
+          "Üzerine yumurta sarısı sürelim, yarım ay şeklinde doğradığımız domatesleri ve biberleri üzerine yerleştirelim.",
+          "Tereyağını küçük parçalar halinde üzerine serpiştirelim.",
+          "Önceden ısıtılmış 200 derece fırında, 45 dakika pişirelim."
+        ]
+      },
+      {
+        "yemek_adi": "Afyon Kebabı",
+        "kategori": "yemek",
+        "malzemeler": {
+          "Afyon Kebabı İçin": {
+            "dana kuşbaşı": "300 gr",
+            "kebaplık pide": "3 tane (ince tırnak pide de olabilir)",
+            "tereyağı": "50 gram",
+            "sıvı yağ": "Biraz"
+          }
+        },
+        "yapılış": [
+          "İlk olarak et düdüklü tencereye konur hafif ateşte kendi suyunu çekene kadar kavrulur.",
+          "Kendi suyunu çekince sıvı yağ ve tereyağı eklenir kavurmaya devam edilir.",
+          "Daha sonra üstüne çıkacak kadar sıcak su eklenir en son tuz da konularak düdüklü nün ağzı kapatılır. 45 dk pişirilir.",
+          "Diğer tarafta pideler kare kare doğranır.",
+          "Et piştikten sonra et suyunu ve etler birbirlerinden ayrılır.",
+          "Pideler et suyunun içine atılır ve kevgir yardımıyla et suyunun içinden alınarak ıslatılır.",
+          "En son üzerine etler konularak servis yapılır.",
+          "İsteğe bağlı olarak yoğurt ile servis edilir."
+        ]
+      }
+      
+      
+      
+    ]
+  }
+  

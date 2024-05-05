@@ -1,0 +1,138 @@
+{
+    "AYDIN": [
+        {
+            "yemek_adi": "Etli Keşkek (Aydın Yöresinden)",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Buğday": "4 Su Bardağı",
+              "Yağsız Kırmızı Et": "500 Gram",
+              "Tereyağı": "3 Yemek Kaşığı",
+              "Tuz": "Miktarına göre"
+            },
+            "yapilis": [
+              "Buğdayı güzelce yıkayıp bir gün önceden suya ıslatın.",
+              "Küçük küçük doğradığınız eti ve buğdayı düdüklü tencereye koyun.",
+              "Yaklaşık 2.5 ila 3 litre su ekleyin.",
+              "Kaynadıktan sonra oluşan köpükleri alın ve tencereyi tamamen kapatın.",
+              "Yaklaşık 1 saat kısık ateşte kaynattıktan sonra altını kapatın ve yarım saat dinlendirin.",
+              "Tencereyi açtıktan sonra kaynayıp iyice pişen etleri ve buğdayları mutfak robotundan geçirin.",
+              "Gerekirse biraz daha su ekleyin.",
+              "Tereyağı ve tuzu ekleyip 15 dakika daha kaynatın.",
+              "Yumuşak bir kıvama gelirse biraz daha fazla kaynatabilirsiniz."
+            ]
+          },
+          {
+            "yemek_adi": "Bolama Yemeği (Lok Lok Pilavı)",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Dana Kuşbaşı Et": "1/2 (yarım) kg",
+              "Domates": "1 adet",
+              "Biber": "2 adet",
+              "Sarımsak": "3-4 diş",
+              "Domates Salçası": "1 çorba kaşığı",
+              "Zeytin Yağı": "1/2 (yarım) çay bardağı",
+              "Tereyağı": "1 çorba kaşığı",
+              "Nohut": "1 çay bardağı (önceden haşlanmış)",
+              "Arpacık Soğanı": "1 çay bardağı",
+              "Bulgur": "1 çay bardağı",
+              "Pirinç": "1 çay bardağı"
+            },
+            "yapilis": [
+              "Büyük bir kabın içine etleri, doğranmış domatesi ve biberi koyun.",
+              "Soğanları ve sarımsakları ekleyin.",
+              "Zeytinyağı, tereyağı, salça ve nohutu ekleyip karıştırın.",
+              "Tepsinin üzerine ters çevirin ve tencerenin içine alın.",
+              "Üzerine 3 çay bardağı su ekleyin ve kısık ateşte pişirin.",
+              "Yaklaşık 45 dakika sonra pirinç ve bulguru ekleyin.",
+              "Piştikten sonra demlenmeye bırakın ve servis yapın."
+            ]
+          },
+          {
+            "yemek_adi": "Yuvarlama (Aydın Yöresi)",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Az Yağlı Dana Kıyma": "250 gr",
+              "Soğan": "2 tane orta boy",
+              "Yumurta": "1 adet",
+              "Karabiber": "1 çay kaşığı",
+              "Tuz": "1 tatlı kaşığı",
+              "Un": "Aldığı kadar",
+              "Sıvı Yağ": "Kızartmak için",
+              "Tereyağı": "1 yemek kaşığı",
+              "Salça": "2 yemek kaşığı",
+              "Toz Kırmızı Biber": "1 yemek kaşığı",
+              "Sıcak Su": "4 su bardağı"
+            },
+            "yapilis": [
+              "Kıyma, rendelenmiş soğan, yumurta, karabiber ve tuzu yoğurun.",
+              "Hamurdan küçük parçalar kopararak yuvarlayın ve unlanmış tepsiye yerleştirin.",
+              "Kızgın yağda kızartın ve fazla ununu alıp havlu kağıt serilmiş bir tabağa alın.",
+              "Tencereye tereyağı ve sıvı yağ koyun, eridikten sonra salça ve toz kırmızı biberi ekleyip kavurun.",
+              "Sıcak suyu ekleyin ve kaynamaya bırakın.",
+              "Kaynayınca yuvarlamaları içine atın ve kısık ateşte pişirin.",
+              "Servis yapın."
+            ]
+          },
+          {
+            "yemek_adi": "Kırlı Kızartması",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Patlıcan": "Kişi başına 1 adet",
+              "Soğan": "1 büyük boy",
+              "Domates": "2 büyük boy",
+              "Sarımsak": "1 baş",
+              "Kırmızı Toz Biber": "Miktarına göre",
+              "Tuz": "Miktarına göre"
+            },
+            "yapilis": [
+              "Patlıcanları yıkayıp temizleyin, ortadan ikiye kesin ve dörde bölün.",
+              "Tuzlu suda 30 dakika bekletin.",
+              "Bol yağda kızartın.",
+              "Ayrı bir tencerede doğranmış soğan ve domatesleri kavurun.",
+              "Sarımsak, kırmızı biber ve tuz ekleyin.",
+              "Patlıcanları ekleyin ve su ekleyip pişirin."
+            ]
+          },
+          {
+            "yemek_adi": "Koruklu Bamya Yemeği",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Bamya": "500 gr",
+              "Soğan": "2 adet kuru",
+              "Domates": "4 adet",
+              "Zeytinyağ": "1 çay bardağı",
+              "Koruk": "4-5 salkım",
+              "Biber Salçası": "Yarım yemek kaşığı",
+              "Pul Biber": "Yarım yemek kaşığı",
+              "Tuz": "Miktarına göre"
+            },
+            "yapilis": [
+              "Bamyaları yıkayıp temizleyin.",
+              "Soğanları doğrayıp pembeleşinceye kadar kavurun.",
+              "Salça ve doğranmış domatesleri ekleyip pişirin.",
+              "Korukları hafifçe ezin.",
+              "Pul biber ve tuz ekleyip karıştırın.",
+              "Bamyaları ve korukları ekleyip kısık ateşte pişirin."
+            ]
+          },
+          {
+            "yemek_adi": "Çine Köftesi",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Dana/Koyun Karışık Kıyma": "500 gr",
+              "Orta Boy Soğan": "1 adet",
+              "Karbonat": "1 çay kaşığı",
+              "Tuz": "1 çay kaşığı",
+              "Su": "1 çay bardağı",
+              "Ekmek İçi": "3 dilim"
+            },
+            "yapilis": [
+              "Kıymayı bir kaba alıp karbonatı ekleyin ve iyice yoğurun.",
+              "Eğer hemen pişirmeyecekseniz kıymayı bir gece buzdolabında bekletin.",
+              "Pişirmek istediğiniz gün kıymaya tuz ve rendelenmiş soğanı ekleyin ve yoğurun.",
+              "Suya ıslattığınız ekmek içini sıkıp kıymaya ekleyin ve iyice yoğurun.",
+              "Hazırladığınız harcı 2 saat dinlendirin.",
+              "Dinlenen harçtan yassı köfte şekilleri verin ve mangalda pişirin."
+            ]
+          }
+    ]}

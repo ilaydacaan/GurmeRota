@@ -1,0 +1,58 @@
+{
+    "AKSARAY": [
+        {
+            "yemek_adi": "İncelek Tatlısı",
+            "kategori": "tatlı",
+            "malzemeler": {
+              "Hamur İçin": {
+                "Un": "3 su bardağı",
+                "Süt": "1 su bardağı",
+                "Zeytinyağı": "½ çay bardağı",
+                "Yumurta": "1 adet",
+                "Yoğurt": "1 tatlı kaşığı",
+                "Limon suyu": "5 damla",
+                "Karbonat": "½ çay bardağı"
+              },
+              "İç Malzemesi": {
+                "Ceviz": "Yeteri kadar",
+                "Buğday nişastası": "Yeteri kadar"
+              },
+              "Üstü İçin": {
+                "Tereyağı": "250 gr",
+                "Zeytinyağı": "½ su bardağı"
+              },
+              "Şerbet İçin": {
+                "Toz şeker": "3 su bardağı",
+                "Su": "3 su bardağı",
+                "Limon suyu": "1 çay kaşığı",
+                "Tuz": "1 çimdik"
+              }
+            },
+            "yapilis": [
+              "Tatlının şerbeti hazırlanır. Su ve toz şeker kaynatılır. Kaynayınca altı kısılır ve limon suyu ile tuz konulur. 15 dakika sonra şerbet ocaktan alınır ve soğumaya bırakılır.",
+              "Hamur malzemelerinin tümü yoğurma kabında karıştırılır, kulak memesi kıvamına gelinceye kadar yoğrulur. Kıvamı gelen hamur, nemli bezle örtülür ve 30 dakika dinlendirilir.",
+              "Dinlenen hamur 14 eşit beze yapılır. Her beze üzerine nişasta dökülerek çok ince olacak şekilde açılır ve kurutma işlemi için kısa bir süre sac üzerinde tutulur.",
+              "Yufkaların tümü kuruyunca üzerlerine çok az su serpiştirilir, yumuşayan yufkalardan 7 tanesi üst üste olacak şekilde fırın tepsisine yerleştirilir.",
+              "İçi için dövülmüş cevizler üzerine bolca dökülür, geri kalan 7 yufkada cevizlerin üstüne örtülür ardından hamur istenilen şekilde kesilir.",
+              "Tavada tereyağı eritilir, üzerine zeytinyağı eklenir, dilimlenmiş hamur üzerine iyice yedirilir. Tatlı, önceden 190 derece ısıtılmış fırında pişirilir.",
+              "Pişen tatlı fırından çıkarılır, ılımaya bırakılır. Tatlı ılıdığı zaman şerbeti dökülerek servis edilir."
+            ]
+          },
+          {
+            "yemek_adi": "Aksaray Usulü Bulama Helvası",
+            "kategori": "tatlı",
+            "malzemeler": {
+              "Pekmez": "1 su bardağı",
+              "Tahin": "1 su bardağı",
+              "Köpük helva": "2 su bardağı"
+            },
+            "yapilis": [
+              "Tahin, pekmez ve köpük helva oda sıcaklığında 30 dakika bekletilir.",
+              "Bekleyen malzemeler bir kaba alınarak 10 dakika karıştırılır.",
+              "Elde edilen karışım bir kaba konur. Aksaray Bulama Helvası, bir hafta içerisinde tüketilmelidir."
+            ]
+          }
+       
+    ]
+  }
+  

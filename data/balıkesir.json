@@ -1,0 +1,176 @@
+{
+    "BALIKESİR": [
+        {
+            "yemek_adi": "Höşmerim",
+            "kategori": "talı",
+            "malzemeler": {
+              "Çiğ Süt": "1 litre",
+              "Yumurta": "2 adet",
+              "Toz Şeker": "2 su bardağı",
+              "Peynir Mayası": "1 çay kaşığı",
+              "İrmik": "1,5 su bardağı"
+            },
+            "yapilis": [
+              "İrmik ve toz şekeri ayrı bir kapta güzelce harmanlayın.",
+              "Çiğ sütü ocağa alarak pişirin. Sütün parmağınızı yakmayacak sıcaklıkta ılık olması gerekiyor.",
+              "Ilık sütün içerisine peynir mayasını ekleyin. Tencerenin kapağını kapatarak 10-15 dakika kadar bekletin.",
+              "Tencereye toz şekerli irmik karışımı ve yumurta sarısını ekleyin. Daha sonra tencereyi tekrar ocağa alın.",
+              "Tencereyi kısık ateşte kaynatın. Dibinin tutmasını önlemek için tahta kaşık yardımıyla karıştırın.",
+              "Koyulaşan ve göz göz olan peynir tatlısını, servis tabaklarına alın ve soğumaya bırakın.",
+              "Soğuduktan sonra kaymakla süsleyerek servis edebilirsiniz. Afiyet olsun."
+            ]
+          },
+          {
+            "yemek_adi": "Bigadiç Güveci",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Oğlak Eti": "Yarım kilo",
+              "Kuzu Eti": "50 gram",
+              "Kuzu Yağı": "100 gram",
+              "Domates": "3 adet",
+              "Biber": "3 adet",
+              "Baharatlar": "Sevdiğiniz baharatlar"
+            },
+            "yapilis": [
+              "Oğlak etini kuşbaşı şeklinde doğrayın.",
+              "Domates ve biberleri orta büyüklükte doğrayın.",
+              "Güveç kabının tabanına doğradığınız domates ve biberleri yerleştirin.",
+              "Kuşbaşı oğlak etini, domates ve biberlerin üzerine ekleyin ve güveç kabına yayın.",
+              "Kuzu yağı ve kuzu etini birlikte harmanlayın. Bu karışımı, oğlak etinin üzerine yaydırın.",
+              "Önceden ısıtılmış 200 dereceli fırında yemeğinizi pişirin.",
+              "Bigadiç güvecini, servis tabaklarına koyarak servis edin. Afiyet olsun."
+            ]
+          },
+          {
+            "yemek_adi": "Tirit (Balıkesir Düğün Yemeği)",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Küçük Doğranmış Kebapçı Pidesi": "1 çorba kasesi dolusu",
+              "Kuzu Budu": "1 adet",
+              "Domates Salçası": "1 dolu yemek kaşığı",
+              "Tereyağı": "2 dolu yemek kaşığı",
+              "Kırmızı Biber": "Yarım çay kaşığı",
+              "Tuz": "2 yemek kaşığı",
+              "Karabiber": "Yarım çay kaşığı",
+              "Maydanoz": "Doğranmış miktarı kadar"
+            },
+            "yapilis": [
+              "Küçük doğranmış kebapçı pidesini bir kabın içine alın.",
+              "Kuzu eti 3 litre kadar su içinde, tuz ilavesiyle kemiklerinden tamamen ayrılıncaya kadar haşlanır. (Ben düdüklüde 30 dk. haşlıyorum. ) Et lime lime olacak kıvamda haşlanmalıdır.",
+              "Bir kevgirle et parçaları ayrı bir kaba alınır, bir çatal bıçak yardımıyla didilir. Soğumasına beklemeden sıcak yapılmalıdır.",
+              "Etin haşlama suyunun içine salça atılıp eritilir.",
+              "Pideler bu suya atılıp yumuşatılır. Pideler yumuşayacak, fakat hamurlaşıp parçalanmayacak sürede suda bekletilir.",
+              "Kevgir yardımıyla tabaklara paylaştırılır. Üzerine didilmiş etler yerleştirilir.",
+              "Kırmızı biberli tereyağı hazırlanıp porsiyonların üzerine istenildiği kadar gezdirilir.",
+              "En son doğranmış maydanoz ve karabiberle servise hazırdır.",
+              "Bu yemek Balıkesir ve yöresinin düğünlerinin baş yemeğidir. Çok doyurucu ve lezzetli bir yemektir. Balıkesir’de bu pideler doğranmış ve kurutulmuş olarak hazır satılmaktadır. Bunlarla yapılırsa ıslatma suyu çok daha fazla olmalıdır."
+            ]
+          },
+          {
+            "yemek_adi": "Peynirli Patlıcan",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Bostan Patlıcanı": "2 adet",
+              "Yağlı Peynir": "2 kibrit kutusu kadar",
+              "Light Peynir": "2 kibrit kutusu kadar",
+              "Yumurta": "3 adet",
+              "Un": "2 dolu kaşık",
+              "Karabiber": "Miktarına göre",
+              "Maydanoz": "Miktarına göre"
+            },
+            "yapilis": [
+              "Bostan patlıcanları alacalı soyulup enine dilimlenir.",
+              "Acısı çıkması için tuzlanır veya tuzlu suda bekletilir.",
+              "Yarım saat kadar beklettikten sonra kağıtla kurulanır.",
+              "Üst malzemesi için 3 yumurta kırılır.",
+              "İçine peynir, maydanoz, karabiber ve un katılıp çatalla iyice ezilir.",
+              "Hazırlanan peynirli harç patlıcanların üzerine 1’er dolu çorba kaşığı kadar koyulup yaydırılır.",
+              "Harç bitinceye kadar hepsi hazırlanır.",
+              "Patlıcanlar kızgın, bol yağda önce alt, sonra harçlı üst kısım olmak kaydıyla kızartılır."
+            ]
+          },
+          {
+            "yemek_adi": "Sura",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Kuzu veya Oğlak Eti Ön Kolu": "1 adet",
+              "Kuzu Ciğeri": "150 gram",
+              "Zeytin Yağı": "Yarım su bardağı",
+              "Pirinç": "2 su bardağı",
+              "Çam Fıstığı": "1 çorba kaşığı",
+              "Kuru Soğan": "1 adet",
+              "Kuş Üzümü": "1 çorba kaşığı",
+              "Yeni Bahar": "Yarım çay kaşığı",
+              "Karabiber": "Yarım çay kaşığı",
+              "Tarçın": "Yarım çay kaşığı",
+              "Tuz": "2 yemek kaşığı",
+              "Domates Salçası": "1 yemek kaşığı"
+            },
+            "yapilis": [
+              "Kuzu ön kolu kaburga tarafından bıçakla açılır içine önceden hazırlanmış iç pilav doldurulur. Bu bölüm iğne iplikle dikilir. Bir kapta sulandırılan salça etin üzerine sürülür. Pişirme kabına su da eklenerek et pişirilir. Özellikle Havran Büyükdere ve civarında toprak fırınlarda fırın ağzı çamurla sıvanarak pişirilen Suraların lezzetine doyum olmaz."
+            ]
+          },
+          {
+            "yemek_adi": "Balıkesir Kaymaklısı",
+            "kategori": "tatlı",
+            "malzemeler": {
+              "Un": "1 kg",
+              "Tereyağı": "300 g",
+              "Yumurta": "6 adet",
+              "Kaymak": "700 g",
+              "Şeker": "2 kg",
+              "Su": "Üstüne gelinceye kadar"
+            },
+            "yapilis": [
+              "Un hamur tahtasında elenir, ortası açılır. Tereyağı ve süt konup karıştırılır. Yoğrulur.",
+              "Dinlendirildikten sonra on iki parçaya bölünüp yağlı bir tepsiye konulur.",
+              "Her yufkanın kırılmaması için elle su serpilir, diğer 6 yufkada diğer yağlı tepsiye yerleştirilir.",
+              "Fırında veya mangalda pişirilir. Alt kısımları kızarınca iki tepside ateşten indirilir.",
+              "Birinci tepsideki yufkaların üst yufkası üzerine bolca kaymak yayılır.",
+              "Diğer tepsideki yufkaların alttaki kızarmış tarafı üste gelmek üzere birinci tepsideki kaymakların üzerine kapatılır.",
+              "Ilık halde reçel şurupları koyulduğunda şerbet soğuk hamur üzerine gezdirilerek dökülür, kapak katılır. Soğuduktan sonra servis yapılır."
+            ]
+          },
+          {
+            "yemek_adi": "Salçalı Tavuklu Mantı (Balıkesir Mantısı)",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Yaş Mantı": "Yarım kilo (dondurulmuş)",
+              "Soğan": "1 adet",
+              "Salça": "2 yemek kaşığı",
+              "Tavuk Göğsü": "1 parça",
+              "Baharatlar": "Tuz, karabiber, pul biber, karabiber, kimyon, kekik"
+            },
+            "yapilis": [
+              "Tavuk göğsü üzerine çıkacak kadar su ekleyip haşlanır.",
+              "Yaş mantılar (elde de açılsa daha güzel olur ama vaktim yoktu) küçük borcama ağızlara üste gelecek şekilde dizilir.",
+              "200 derece de 15-20 dakika üzeri hafif kızarana kadar pişirilir.",
+              "Soğan küçük küçük doğrayıp zeytinyağında kavrulur üzerine salça ve baharatlar eklenir en son haşlayıp didiklenen tavuklar eklenir biraz karıştırılır.",
+              "Fırından çıkardığımız üzeri kızarmış mantının üzerine yayılır.",
+              "( isteğe bağlı biraz haşlanmış tavuğun suyundan lezzet üzerine yarım su bardağı kadar dökülür)",
+              "Son olarak üzerine kaplayacak kadar sıcak su eklenir ve 200 derecede ki fırında 30 dakika suyu çekene kadar pişirilir."
+            ]
+          },
+          {
+            "yemek_adi": "Ayvalık Tost",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Sosis": "6-7 adet",
+              "Sucuk": "Miktarına göre",
+              "Kaşar Peyniri": "Miktarına göre",
+              "Ayvalık Tost Ekmeği": "3 dilim",
+              "Salatalık Turşusu": "Miktarına göre",
+              "Ketçap": "Miktarına göre",
+              "Mayonez": "Miktarına göre"
+            },
+            "yapilis": [
+              "Sosis ve sucuk jülyen şeklinde doğranır.",
+              "Tavada sotelenir.",
+              "Ayvalık tost ekmeği ikiye kesilir bir parçasına ketçap bir parçasına mayonez sürülür.(evde mayonez olmadığı için iki parçaya da ketçap sürdüm).",
+              "Salatalık turşusu da jülyen şeklinde doğranır.",
+              "İlk olarak turşu koyulur üzerine sırasıyla sucuk, kaşar ve sosis eklenir ve kapatılır.",
+              "Tost makinasına alınır biraz kızarınca tereyağ sürülür."
+            ]
+          }
+
+    ]}

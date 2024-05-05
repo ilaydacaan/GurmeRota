@@ -1,0 +1,153 @@
+{
+    "GAZİANTEP": [
+        {
+            "tarif_adı": "Kayseri Mantısı",
+            "kategori": "yemek",
+            "malzemeler": {
+              "hamur": {
+                "yumurta": "1 adet",
+                "ılık su": "1 su bardağı",
+                "un": "3 su bardağı",
+                "tuz": "Miktarı damak zevkine göre"
+              },
+              "iç malzeme": {
+                "kıyma": "200 gr",
+                "soğan": "1 küçük boy",
+                "karabiber": "Miktarı damak zevkine göre",
+                "kırmızı pul biber": "Miktarı damak zevkine göre",
+                "tuz": "Miktarı damak zevkine göre"
+              },
+              "üzeri için": {
+                "sarımsaklı yoğurt": "Sarımsaklı yoğurt (isteğe bağlı)",
+                "tereyağı": "80 gr",
+                "domates salçası": "2 yemek kaşığı",
+                "nane": "Nane (isteğe bağlı)"
+              }
+            },
+            "yapılışı": [
+              "Öncelikle su, tuz ve yumurtayı bir kasede çırpın. Çırpma işlemi tamamlandığında üzerine un ekleyerek yoğurmaya başlayın. Hamurun kıvamı çok yumuşak olursa, azar azar un ekleyebilirsiniz. Üzerini örterek 30 dakika dinlendirin.",
+              "Kullanacağınız soğanı rendeleyin ve kıymaya ekleyin. Kıyma için tuz, pul biber ve karabiber ekleyin. İsteğe göre farklı baharatlar da ilave edilebilir.",
+              "Hamuru unlanmış tezgahta açıp küçük küçük kareler kesin. İçlerini kıyma harcı ile doldurun, bohça şeklinde kapatın.",
+              "Hazırlanan mantıları tuzlu kaynar suyun içerisine atarak pişirin.",
+              "Üzeri için tereyağını eritip salçayı kavurun. Pişen mantıların üzerine bu sosu dökün ve servis tabağına alın.",
+              "Üzerine isteğe bağlı olarak sarımsaklı yoğurt, nane veya sumak ilave ederek servis yapın. Afiyet olsun."
+            ]
+          },
+          {
+            "tarif_adı": "Kayseri Yağlaması",
+            "kategori": "yemek",
+            "malzemeler": {
+              "hamur": {
+                "ılık su": "1 su bardağı (200 ml)",
+                "ılık süt": "1 su bardağı (200 ml)",
+                "instant maya": "1 paket",
+                "tuz": "1 tatlı kaşığı",
+                "şeker": "1 tatlı kaşığı",
+                "sıvı yağ": "2 yemek kaşığı",
+                "un": "5 su bardağı"
+              },
+              "iç malzeme": {
+                "kıyma": "500 gr",
+                "soğan": "2 adet",
+                "yeşil biber": "2 adet",
+                "kırmızı biber": "2 adet",
+                "domates": "2 adet",
+                "sarımsak": "2 diş",
+                "salça": "1 yemek kaşığı",
+                "tereyağı": "1 yemek kaşığı",
+                "zeytinyağı": "1 çay bardağı",
+                "su": "1 çay bardağı",
+                "tuz": "1 tatlı kaşığı",
+                "pul biber": "1 tatlı kaşığı",
+                "karabiber": "1 çay kaşığı",
+                "kimyon": "1 çay kaşığı"
+              },
+              "üzeri için": {
+                "sarımsaklı yoğurt": "Sarımsaklı yoğurt"
+              }
+            },
+            "yapılışı": [
+              "Hamur için, un, maya, tuz ve şekeri yoğurma kabına alın. Üzerine süt, su ve sıvı yağı ekleyerek yumuşak bir hamur elde edene kadar yoğurun. Hamurun üzerini streç film ve temiz bir bezle örterek 40 dakika mayalandırın.",
+              "Kıymalı harç için; bir tavada kıymayı kavurun. Üzerine zeytinyağı ve tereyağını ekleyerek eriyinceye kadar kavurmaya devam edin. Rendelenmiş soğan, sarımsak ve doğranmış biberleri ekleyin. Ardından salça, baharatlar ve doğranmış domatesleri ilave edip suyunu çekene kadar pişirin.",
+              "Mayalanan hamuru tezgahta bezelere ayırın ve her bir bezeyi açarak geniş bir tavada pişirin.",
+              "Pişirilen lavaşları kıymalı harçla kat kat dizin. Üzerlerine sarımsaklı yoğurt gezdirerek servis yapın."
+            ]
+          },
+          {
+            "tarif_adı": "Kurşun Aşı Çorbası (Kayseri)",
+            "kategori": "çorba",
+            "malzemeler": {
+              "köftesi için": {
+                "ince bulgur": "1 su bardağı",
+                "yumurta": "1 adet",
+                "sıcak su": "1,5 su bardağı",
+                "un": "2 yemek kaşığı",
+                "tuz": "1 çay kaşığı",
+                "pulbiber": "1 çay kaşığı",
+                "kimyon": "1 çay kaşığı",
+                "karabiber": "1 tutam",
+                "haşlanmış nohut": "1 su bardağı",
+                "haşlanmış yeşil mercimek": "1 su bardağı"
+              },
+              "sosu için": {
+                "kuru soğan": "1 adet",
+                "sıvı yağ": "2 yemek kaşığı",
+                "biber salçası": "1 tatlı kaşığı",
+                "ev salçası": "1 yemek kaşığı",
+                "tuz": "1 çay kaşığı",
+                "reyhan-nane": "(isteğe bağlı)",
+                "sumak": "isteğe bağlı"
+              }
+            },
+            "yapılışı": [
+              "Nohutu ve mercimeği bir gece önceden ıslatın.",
+              "Düdüklü tencerede nohutu çok dağılmadan haşlayın. Nohutun suyunu dökmeden kullanmayı tercih edebilirsiniz.",
+              "Yeşil mercimeği ayrı bir tencerede hızlıca haşlayın, dağılmamasına dikkat edin.",
+              "Bulguru sıcak suyla ıslatın ve 10 dakika bekletin.",
+              "Yumurta, un, tuz ve baharatları bulgura ekleyerek yoğurun. İhtiyaca göre su ekleyerek kıvamını ayarlayın.",
+              "Su dolu bir kasede ellerinizi ıslatarak bulgur karışımından fındık büyüklüğünde köfteler yapın.",
+              "Köfteleri hazırladıktan sonra kaynayan suya ekleyin. Bir taşım kaynayınca haşlanmış nohut ve yeşil mercimeği de ekleyin.",
+              "Ayrı bir tavada küçük doğranmış soğanı yağda kavurun. Üzerine biber salçası ve ev salçasını ekleyerek karıştırın.",
+              "Hazırladığınız sosu çorbanın üzerine dökün. Tuzunu ayarlayın ve isteğe bağlı olarak kuru reyhan veya nane ile süsleyin.",
+              "Köfteler piştikten sonra sıcak olarak servis yapın."
+            ]
+          },
+          {
+            "tarif_adı": "Kayseri Açma Kete",
+            "kategori": "yemek",
+            "malzemeler": {
+              "hamuru için": {
+                "süt": "2 su bardağı",
+                "su": "1 su bardağı",
+                "sıvı yağ": "yarım su bardağı",
+                "şeker": "3 tatlı kaşığı",
+                "tuz": "2 silme tatlı kaşığı",
+                "yaş maya": "1 paket",
+                "un": "aldığı kadar"
+              },
+              "aralarına sürmek için": {
+                "tereyağı veya margarin": "1.5 paket"
+              },
+              "iç harcı için": {
+                "sıvı yağ": "1 çay bardağı",
+                "un": "2 su bardağı",
+                "tuz": "1 çay kaşığı (isteğe bağlı)"
+              }
+            },
+            "yapılışı": [
+              "İlk olarak süt ve suyu ılıtıp, şekeri ve mayayı ekleyin ve eritin.",
+              "Sıvı yağını, tuzunu ve ununu ekleyerek hamuru yoğurun. Hamur yumuşak bir kıvamda olmalıdır.",
+              "Tavada sıvı yağ alın ve ısındıktan sonra 2 su bardağı unu ekleyip rengi dönene kadar kavurun. Tuz ekleyin ve soğumaya bırakın.",
+              "Hamuru 15 dakika beklettikten sonra 9 bezeye ayırın ve üzerlerini kapatın ki kurumasın.",
+              "İlk bezeyi açıp üzerini erittiğiniz yağdan her yerine gelecek şekilde yağlayın.",
+              "2 bezeyi daha açıp üst üste koyun ve yağlayın.",
+              "Açılmış ve yağlanmış hamurları rulo şeklinde sarın. Yağ donunca 4 parmak genişliğinde kesin ve tatlı tabağı büyüklüğünde açın.",
+              "Açtığınız hamurlara iç harcını koyup zarf şeklini verin.",
+              "Yağlı kağıt serili tepsiye aralıklı olarak hamurları dizin ve üzerlerini kabaran karar maya ile mayalayın.",
+              "Yumurta sarısı sürüp, susam ekleyin.",
+              "Önceden ısıtılmış 180 derece fırında üzerleri kızarana kadar pişirin."
+            ]
+          }
+
+
+    ]}

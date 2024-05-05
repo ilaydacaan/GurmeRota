@@ -1,0 +1,65 @@
+{
+    "BATMAN": [   
+        {
+            "yemek_adi": "Batman Usulü Dolma",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "İç Malzeme": {
+                "Pirinç": "6 su bardağı",
+                "Domates Salçası": "2 yemek kaşığı (tepeleme)",
+                "Biber Salçası": "1 yemek kaşığı (tepeleme)",
+                "Maydanoz": "1 büyük demet",
+                "Soğan": "2 büyük baş",
+                "Et": "250 gr",
+                "Karabiber": "1 tatlı kaşığı",
+                "Pulbiber": "1 yemek kaşığı",
+                "Sumak Suyu": "1 su bardağı",
+                "Sıvı Yağ": "2 su bardağı"
+              },
+              "Dış Malzeme": {
+                "Lahana": "Küçük 1 başın yarısı",
+                "Kurutulmuş Biber": "15 adet",
+                "Kurutulmuş Patlıcan": "15 adet",
+                "Şalgam Yaprağı": "3 demet",
+                "Asma Yarağı": "3 demet",
+                "Tuz": "Miktarına göre",
+                "Su": "Miktarına göre"
+              }
+            },
+            "yapilis": [
+              "Tüm malzemeler doğranarak karışım için hazırlanır. Pirinç iyice yıkanır ve diğer malzemelerle karıştırılır. Salça ve baharatlar eklenir.",
+              "Geniş bir tencereye sarmalar sarılarak dolmalar doldurularak dizilir. Dizilme sırası önemli değildir.",
+              "Su ölçüsü malzemeyi bir parmak geçecek şekilde olmalıdır.",
+              "Bir taşım kaynayıncaya kadar gür ateşte kaynama başladıktan sonra kısık ateşte yaklaşık yarım saat pişmeye bırakılır.",
+              "Pişince ocaktan alınır. Afiyet olsun."
+            ]
+          },
+          {
+            "yemek_adi": "Tırşik (Batman Yöresi)",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Tavuk Göğsü veya Dana Kuşbaşı": "1 tane (veya 250-300 gr)",
+              "Patlıcan": "4 adet",
+              "Domates": "4 adet",
+              "Yeşil Biber": "2 adet",
+              "Sarımsak": "2 diş",
+              "Salça": "1 tatlı kaşığı",
+              "Sıvı Yağ": "Miktarına göre",
+              "Tuz": "Miktarına göre",
+              "Pulbiber": "Miktarına göre",
+              "Karabiber": "Miktarına göre",
+              "Kekik": "Miktarına göre",
+              "Su": "1 su bardağı (domatesin sulu olup olmamasına göre değişir)"
+            },
+            "yapilis": [
+              "Etleri kuşbaşı doğrayıp tencereye alın. Sıvı yağ, baharatlar ve salçayı ekleyip iyice birbirine yedirin.",
+              "Patlıcanları yemeklik doğrayın. Etlerin üstüne dizin. Biberleri de patlıcanların boyunda kesip onları da ekleyin.",
+              "En üste yemeklik doğradığınız domatesleri ekleyin. Üzerine rendelenmiş sarımsak ekleyin. Dilerseniz sebzelerin arasına da sarımsak rendeleyebilirsiniz.",
+              "En üste tuz ve baharatları, suyu da ekleyip tencereyi hiç karıştırmadan pişmeye bırakın. Patlıcanlar pişince yemeğiniz hazır olacaktır.",
+              "Afiyet olsun."
+            ]
+          }
+
+    ]
+  }
+  

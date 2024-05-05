@@ -1,0 +1,177 @@
+
+{
+    "ANKARA": [
+{
+    "yemek_adi": "Ankara Tava",
+    "kategori": "yemek",
+    "malzemeler": {
+      "1,5 bardak arpa şehriye": "Miktarı isteğe göre",
+      "300-400 gr iri doğranmış kuşbaşı et": "Miktarı isteğe göre",
+      "1 adet biber": "Miktarı isteğe göre",
+      "1 adet domates": "Miktarı isteğe göre",
+      "1 adet soğan": "Miktarı isteğe göre",
+      "1 diş sarmısak": "Miktarı isteğe göre",
+      "1 tatlı kaşığı domates biber salçası": "Miktarı isteğe göre",
+      "1 dolu kaşık tereyağ": "Miktarı isteğe göre",
+      "2-3 kaşık zeytinyağ": "Miktarı isteğe göre",
+      "Tuz": "Miktarı isteğe göre",
+      "Karabiber": "Miktarı isteğe göre",
+      "Pul biber": "Miktarı isteğe göre",
+      "Haşladığımız etin suyu": "Miktarı isteğe göre"
+    },
+    "yapilis": [
+      "Eti tencereye alıp su ekleyelim bir iki taşım kaynayınca köpüklü suyu dökelim ve tekrar üzerine 3 bardak su ekleyip haşlayalım.",
+      "Pişen etin suyunu süzüp kenara alalım.",
+      "Tencereye tereyağını alıp etleri ilave edip biraz kavuralım.",
+      "Yemeklik doğradığımız soğanı ezilmiş sarımsağı ekleyelim.",
+      "Yine yemeklik doğradığımız biber ve domatesi ekleyip biraz kavurup salçayı ekleyip kokusu çıkınca ocaktan alalım.",
+      "Pilav tenceresine zeytinyağını alalım arpa şehriyeyi ekleyip rengi hafif dönene kadar kavuralım.",
+      "Arpa şehriyeye kavurduğumuz etli harcı ilave edip üzerini geçecek kadar et suyundan döküp tuzunu atıp pişmeye bırakalım.",
+      "Pişen yemeğimize ocaktan almadan baharatları ekleyip karıştıralım ve dinlendirelim. Orjinalinde kuzu etiyle yapılan yemeğimizi ben dana etiyle yaptım ve eti düdüklüde haşladım. Afiyet olsun."
+    ]
+  },
+  {
+    "yemek_adi": "Beypazarı Etli Güveçi",
+    "kategori": "yemek",
+    "malzemeler": {
+      "2 su bardağı pilavlık pirinç": "Miktarı isteğe göre",
+      "3-4 adet domates": "Miktarı isteğe göre",
+      "3-4 adet yeşil biber": "Miktarı isteğe göre",
+      "350-400 gram kuşbaşı dana eti": "Miktarı isteğe göre",
+      "İsteğe göre karabiber": "Miktarı isteğe göre",
+      "Pul biber": "Miktarı isteğe göre",
+      "Tuz": "Miktarı isteğe göre"
+    },
+    "yapilis": [
+      "İlk olarak pirinçler güzelce yıkanıp ılık ve tuzlu suda ıslatılır. Bu arada etler sulanıp ardından suyunu çekene kadar kavrulur.",
+      "Daha sonra yeşil biberler ince ince doğranıp tereyağı ve sıvı yağ ile iyice kavrulur.",
+      "Ardından kabukları soyulup küp küp doğranmış domatesler katılır.",
+      "Biraz da onlar kavrulunca baharatlar ve pirinçler eklenip hafif kavrulur ve ben genellikle göz kararı eklerim ama bire bir buçuk ölçü olarak sıcak su eklenir ve hafif kısık ateşte suyu çekene kadar pişirilir.",
+      "Piştikten sonra üzerine bir havlu ya da kağıt havlu konulup örtüye sarılıp dinlendirilir. Yanında arzuya göre salata hoşaf ile servis edilebilir. Afiyet olsun."
+    ]
+  },
+  {
+    "yemek_adi": "Bazlama Kebabı",
+    "kategori": "yemek",
+    "malzemeler": {
+      "1 adet hazır bazlama": "Miktarı isteğe göre",
+      "450-500 gr kuzu kuşbaşı": "Miktarı isteğe göre",
+      "2 adet kırmızı biber": "Miktarı isteğe göre",
+      "2 adet yeşil biber": "Miktarı isteğe göre",
+      "2 adet domates": "Miktarı isteğe göre",
+      "1 adet kuru soğan": "Miktarı isteğe göre",
+      "200 gr kaşar peynir": "Miktarı isteğe göre",
+      "1 yemek kaşığı salça": "Miktarı isteğe göre",
+      "2 yemek kaşığı sıvı yağ": "Miktarı isteğe göre",
+      "1 tatlı kaşığı karabiber": "Miktarı isteğe göre",
+      "1 tatlı kaşığı pulbiber": "Miktarı isteğe göre",
+      "1,5 tatlı kaşığı tuz": "Miktarı isteğe göre"
+    },
+    "yapilis": [
+      "Kuşbaşı doğranmış kuzu etimizi tencereye alıp, kendi suyunu salıp, çekinceye kadar pişiriyoruz. O pişerken soğan, biber ve domatesi yemeklik doğruyoruz.",
+      "Et suyunu çekince 2 yemek kaşığı yağ ekleyip, 3 en fazla 4 dakika kavuruyoruz.",
+      "Daha sonra soğanlar ve biberleri de ekleyip, suyunu salıp, çekinceye kadar arada karıştırıp, kavuruyoruz.",
+      "Suyunu çekince domatesleri ve baharatları ekliyoruz 2 dakika pişirip, ocağın altını kapatıyoruz.",
+      "Bazlamanın 2 cm kenarından başlayarak, yuvarlak kapak gibi üstünü açıyoruz.",
+      "Alt kısmı kalacak şekilde kavurmamızı içine yayarak, boşaltıyoruz.",
+      "Kavurmanın üzerine kaşar dilimleri ekleyip, kapağını üzerine kapatıp, salçayla az suyu karıştırıp, kapağa sürüyoruz.",
+      "Salçalı sosun üzerine rendelenmiş kaşarı tekrar ekliyoruz.",
+      "180 derece fırında 15 dakika pişirip, servis ediyoruz. Afiyet olsun."
+    ]
+  },
+  {
+    "yemek_adi": "Ankara Çorbası",
+    "kategori": "çorba",
+    "malzemeler": {
+      "150 gr kadar kıyma": "Miktarı isteğe göre",
+      "3 avuç yıldız şehriye": "Miktarı isteğe göre",
+      "Toz kırmızı biber": "Miktarı isteğe göre",
+      "6 çorba kaşığı yoğurt": "Miktarı isteğe göre",
+      "2-3 çorba kaşığı un": "Miktarı isteğe göre",
+      "1.5 tatlı kaşığı tuz": "Miktarı isteğe göre",
+      "2 diş sarımsak": "Miktarı isteğe göre",
+      "Sıvı yağ": "Miktarı isteğe göre"
+    },
+    "yapilis": [
+      "Az miktar sıvı yağımızda göz kararı toz kırmızı biberimizi kavuruyoruz, kıymayı da ekleyip rengi değişene kadar kavuruyoruz ve üzerine yaklaşık 2 litre kadar su koyuyoruz.",
+      "(Üzerine yoğurt, un karışımı ekleneceği için su miktarını koyarken bunu gözden kaçırmamamız lazım yoksa tenceremiz taşar.)",
+      "3 avuç kadar yıldız şehriyemizi ve 1,5 tatlı kaşığı tuzu ekleyip şehriyeler şişene kadar pişiriyoruz.",
+      "Diğer tarafta un, yoğurt ve iyice dövdüğümüz veya ince kestiğimiz 2 diş sarımsağı pütürsüz bir kıvam alana kadar karıştırıyoruz.",
+      "Hazırladığımız bu karışıma çorbadan bir kaç kaşık ekleyip ılıttıktan sonra (yoğurt kesilmesin diye) çorbaya ekleyip karıştırıyoruz.",
+      "Çorbamızın kıvamı için koyuysa gerekirse sıcak su, sıvıysa biraz suda erittiğimiz un ekleyebiliriz.",
+      "Ama genellikle bu ölçüler ile çorbamızın kıvamı yerinde oluyor.",
+      "Sıcak servis yapın, afiyet olsun."
+    ]
+  },
+  {
+    "yemek_adi": "Efelek Dolması",
+    "kategori": "yemek",
+    "malzemeler": {
+      "Yarım kilo efelek otu": "Miktarı isteğe göre",
+      "2 su bardağı pirinç": "Miktarı isteğe göre",
+      "1 tane orta boy ince yemeklik şeklinde doğranmış kuru soğan": "Miktarı isteğe göre",
+      "3 çorba kaşığı kavrulmuş kıyma": "Miktarı isteğe göre",
+      "1 çorba kaşığı salça": "Miktarı isteğe göre",
+      "Yarım çay kaşığı kimyon": "Miktarı isteğe göre",
+      "Karabiber": "Miktarı isteğe göre",
+      "Nane": "Miktarı isteğe göre",
+      "Tuz": "Miktarı isteğe göre",
+      "Yarım çorba kaşığı limon suyu": "Miktarı isteğe göre"
+    },
+    "yapilis": [
+      "Efeleklerin orta sert kısımları bıçakla alınır, kaynar suyun içine bırakılıp 3-4 dk sonra alınıp soğuk suya tutulur.",
+      "Bir tencerede soğanlar sıvı yağla kavrulup kıyma, pirinç, tuz, baharatlar, salça konulup karıştırılır.",
+      "3 su bardağı kaynar su dökülüp hafif diri kalacak şekilde pişirilir ve soğutulur.",
+      "Sonra efeleklerin içlerine 1'er tatlı kaşığı pirinçli harçtan konularak dikkatlice sarılır ve tencereye dizilir.",
+      "1 su bardağı salçalı limonlu kaynar su konularak 5-10 dk kısık ateşte pişirilir. Afiyet olsun."
+    ]
+  },
+  {
+    "yemek_adi": "Uruş Kapama",
+    "kategori": "yemek",
+    "malzemeler": {
+      "3 kg kuzu kuşbaşı": "Miktarı isteğe göre",
+      "10 diş sarımsak": "Miktarı isteğe göre",
+      "3 orta boy soğan veya 10 adet arpacık soğan": "Miktarı isteğe göre",
+      "1 yemek kaşığı salça": "Miktarı isteğe göre",
+      "3 domates": "Miktarı isteğe göre",
+      "1 tatlı kaşığı pul biber": "Miktarı isteğe göre",
+      "3 sivri biber": "Miktarı isteğe göre",
+      "1 su bardağı nohut": "Miktarı isteğe göre",
+      "1 tatlı kaşığı biber salçası": "Miktarı isteğe göre",
+      "3 su bardağı pirinç": "Miktarı isteğe göre"
+    },
+    "yapilis": [
+      "Pirinç sıcak tuzlu su bulunan bir kap içinde bekletilir.",
+      "Bu arada bir başka kap içinde kuşbaşı et, ince doğranmış soğan veya bütün halinde arpacık soğanı, soyulmuş sarımsaklar, pul biber ve tuz konularak harman edilir.",
+      "Bu harman edilen karışım özel kapama küpecin içine konulur. Küpecin ağzı tencerenin içine gelecek şekilde ters kapatılır.",
+      "Akşamdan ıslatılan nohut küpecin kenarına yerleştirilir.",
+      "Üzerine yeterince su konur. Derin tencerenin kapağı kapatılır.",
+      "Bir kaç et parçası dışarıda bırakılır. (Pişmesini kontrol etmek için).",
+      "Et pişince içine sıcak tuzlu suda bekletilen pirinç salınır. Pilav piştikten sonra ortasına küpeç boşaltılarak servis yapılır. Not: Küpec: Çeşitli boyları olmakla beraber ağız çapı 12-15 cm boyu ise 25-30 cm arasında değişmekte olup altında yaklaşık 1 cm çapında bir delik bulunmaktadır."
+    ]
+  },
+  {
+    "yemek_adi": "Öllüğün Körü Yemeği",
+    "kategori": "yemek",
+    "malzemeler": {
+      "250 gram kıyma": "Miktarı isteğe göre",
+      "500 gram erişte": "Miktarı isteğe göre",
+      "3 yemek kaşığı tereyağ": "Miktarı isteğe göre",
+      "1 su bardağı ceviz": "Miktarı isteğe göre",
+      "1 orta boy soğan": "Miktarı isteğe göre",
+      "1 tatlı kaşığı tuz": "Miktarı isteğe göre",
+      "1 çay kaşığı karabiber": "Miktarı isteğe göre",
+      "Yarım çay bardağı sıvı yağ": "Miktarı isteğe göre"
+    },
+    "yapilis": [
+      "Öncelikle bir kaba erişteler konur ve üzerine bir miktar tuz serpilip, karıştırılır.",
+      "Daha sonra ceviz içi ince kıyılır ve üzerine eklenir. Bir tencereye su konur ve kaynatılır. Kaynayan suya tuz eklenir ve önce erişteler, ardından kıyma konur.",
+      "Kıyma suyunu çekene kadar pişirilir ve tereyağı konur. Erişteler pişince suyu süzülüp, bir kenara alınır.",
+      "Kıymalı karışıma önce sıvı yağ, ardından ince kıyılmış soğan eklenir. Soğanlar pembeleşinceye kadar kavrulur.",
+      "Sonra sıra karabiber eklemeye gelir ve karıştırılır.",
+      "Son olarak tencereye koyulan erişteler eklenir ve karıştırılır. Karışım hafifçe kavrulduktan sonra servise hazır hale gelir. Afiyet olsun."
+    ]
+  }
+]
+}

@@ -1,0 +1,219 @@
+{
+    "BAYBURT": [   
+        {
+            "yemek_adi": "Kara Pancar",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Evelik": "1 kase (haşlanmış)",
+              "Kuşbaşı Et": "250 gram",
+              "Kuru Soğan": "2 adet",
+              "Haşlanmış Yeşil Mercimek": "1 su bardağı",
+              "Bulgur": "1 su bardağı",
+              "Salça": "2 çorba kaşığı",
+              "Tuz": "Miktarına göre",
+              "Biber": "Miktarına göre",
+              "Su": "Miktarına göre"
+            },
+            "yapilis": [
+              "İnce kıyılmış soğanları yağda kavurun.",
+              "Salça ve etleri ilave edin, tekrar kavurun. Etler suyunu çekinceye kadar sürekli karıştırın.",
+              "Bir su bardağı su ekleyip etler yumuşayıncaya kadar pişirin.",
+              "Haşlanmış yeşil mercimeği, bulguru, haşlanmış evelikleri, pişmiş etlerin üzerine dökün, kavurun.",
+              "Suyunu ayarlayın, yemeği kısık ateşte pişirin.",
+              "Ateşten alıp, beş on dakika dinlendirin, servis yapın."
+            ]
+          },
+          {
+            "yemek_adi": "Su Böreği",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Yumurta": "6 adet",
+              "Süt": "1 su bardağı",
+              "Sıvı Yağ": "1 yemek kaşığı",
+              "Tuz": "Miktarına göre",
+              "Un": "Aldığı kadar",
+              "Kıyma": "200 gram",
+              "Dereotu": "2 yemek kaşığı",
+              "Karabiber": "Miktarına göre",
+              "Tereyağı": "En az 150 gram"
+            },
+            "yapilis": [
+              "Yumurtaları kırın. İçine tuzu, sütü ekleyin, çırpın.",
+              "1 kaşık yağı da ekleyin. Üzerine unu yavaş yavaş ekleyin.",
+              "Katı hamur elde etmek için iyice yoğurun. Sonra küçük parçalara ayırın, 12 parça olacak şekilde.",
+              "2 saat dinlendirin.",
+              "Hamuru açın, küçük küçük parçalara kesin (12 parça).",
+              "Kıymayı biraz yağla kavurun. Dereotu ve karabiberi ekleyin, tuzu da unutmayın.",
+              "Bir tencerede bol su kaynatın. Kaynayan suya yufkaları atın, sonra soğuk suya batırın ve çıkarın.",
+              "Her parçayı tek tek haşlayıp aralarına tereyağı sürün.",
+              "Ortaya gelince harcı dökün ve katları tamamlayın.",
+              "Önceden 200 derecede ısıttığınız fırında böreğin altı-üstü kızarana kadar pişirin."
+            ]
+          },
+          {
+            "yemek_adi": "Ekşi Lahana",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Parça Et veya Kavurma": "250 gram",
+              "Ekşi Lahana (Salamura)": "1 kg",
+              "Bulgur": "1 su bardağı",
+              "Börek Yağı": "2 yemek kaşığı",
+              "Kuru Soğan": "1 adet (orta)",
+              "Kırmızı Biber": "1 çay kaşığı",
+              "Salça": "2 yemek kaşığı",
+              "Tuz": "1 tutam"
+            },
+            "yapilis": [
+              "Su ile et yaklaşık 20 dakika haşlanır.",
+              "Üzerine bulgur ilave edilerek bir taşım kaynatılır, sonra küçük küçük doğranmış ekşi lahana ilave edilir.",
+              "Bir başka kapta soğanlar pembeleşinceye kadar yağ, kırmızıbiber, salça karıştırılarak pişirilir.",
+              "Bu karışım ekşi lahananın içine konulur, kavurma ile pişiriliyorsa bu aşamada ilave edilir ve yaklaşık 45 dakika pişirilir.",
+              "Bir müddet dinlendirildikten sonra servis yapılır."
+            ]
+          },
+          {
+            "yemek_adi": "Galacoş",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Yeşil Mercimek": "250 gram",
+              "Tereyağı": "200 gram",
+              "Kıyma": "½ kg",
+              "Kuru Soğan": "1 adet (irice)",
+              "Salça": "2 kaşık",
+              "Gurut veya Yoğurt Süzmesi": "250 gr",
+              "Su": "Yeterince"
+            },
+            "yapilis": [
+              "Mercimek, et, soğan, salça ve yağ ile birlikte mercimek suyu çekinceye kadar pişirilir.",
+              "Diğer taraftan gurut veya yoğurt süzmesi sulu bir kıvama gelinceye kadar sıcak suyla ezilerek kaynatılır. Kaynamamasına özen gösterilir.",
+              "Hazırlanan bu eriyik önceden tabağa doğranan bayat ekmeklerin üzerine dökülür.",
+              "Üzerine de bol yağlı mercimek ilave edilerek servise sunulur."
+            ]
+          },
+          {
+            "yemek_adi": "Kesme Çorbası",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Yeşil Mercimek": "200 gram",
+              "Yumurta": "1 adet",
+              "Salça": "2 yemek kaşığı",
+              "Kuru Soğan": "1 adet (orta)",
+              "Yağ": "100 gram",
+              "Un": "1 su bardağı",
+              "Su": "Yeterince",
+              "Tuz": "Miktarına göre",
+              "Dargın": "İstenirse"
+            },
+            "yapilis": [
+              "Un içerisine su, tuz, yumurta konularak bir hamur yoğrulur, biraz bekletildikten sonra hamur açılır, makarna gibi ince ince kesilir.",
+              "Diğer taraftan mercimek iyice pişirilir, doğranan soğan yağla pembeleştirilir. Dargın, salça, su katılır üzerine mercimek ilave edilir kaynatılır, üzerine kesilen çorbalık hamurlar karıştırılır.",
+              "Birkaç taşım kaynatıldıktan sonra servis yapılır."
+            ]
+          },
+          {
+            "yemek_adi": "Lor Dolması",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Taze Lor (Çökelek)": "1 kg",
+              "Bulgur": "1 su bardağı",
+              "Yumurta": "2 adet",
+              "Süt Kaymağı": "1 su bardağı",
+              "Tereyağı": "4 kaşık",
+              "Dargın": "Miktarına göre",
+              "Pancar Yaprağı veya Evelik": "1 kg",
+              "Taze Soğan": "1 deste",
+              "Tuz": "Miktarına göre"
+            },
+            "yapilis": [
+              "Yapraklar yumuşaması için kaynar suda bir taşım haşlanır.",
+              "Taze lor içerisine yumurta, süt kaynağı, haşlanmış bulgur, ince doğranmış taze soğan, sıkılarak yaprağa sarılır.",
+              "Yağlanmış tepsiye düzgün bir şekilde dizilir, üzerine yarım su bardağı su veya süt ilave edilerek orta sıcaklıktaki fırında pişirilir.",
+              "Servis yaparken üzerine eritilmiş tereyağı dökülür."
+            ]
+          },
+          {
+            "yemek_adi": "Süt Böreği",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Süt veya Yoğurt": "1 su bardağı",
+              "Su": "1 su bardağı",
+              "Tereyağı": "1 su bardağı",
+              "Yumurta": "3 adet",
+              "Kavrulmuş Fındık": "250 gram",
+              "Şerbet İçin (Toz Şeker, Karbonat, Un)": "2 su bardağı toz şeker, 1 çay kaşığı karbonat, yeterince un"
+            },
+            "yapilis": [
+              "Yumurta, bir su bardağı süt veya yoğurt, su, karbonat ve tereyağı karıştırılır.",
+              "Üzerine un ilave edilerek baklava hamuru gibi bir hamur yapılır. 14-15 parçaya ayrılıp 15 dakika kadar dinlendirilir.",
+              "İnce olarak açılan yufkalar yağlanmış tepsiye teker teker dizilir.",
+              "Her üç dört yufka arasına dövülmüş fındık serpilir.",
+              "Bu şekilde bütün hamur bitinceye kadar yufkalar açılıp tepsiye serilir.",
+              "Yufkanın açılması tamamlandıktan sonra istenilen şekilde kesilerek üzerine biraz tereyağı dökülür ve orta sıcaklıkta bir fırında hamur pembeleşinceye kadar pişirilir.",
+              "Kızarmış börek fırından çıktıktan sonra, pişirilmiş süt üzerine ilave edilerek tadı ayarlandıktan sonra elde edilen süt şerbeti ılık olarak üzerine dökülür.",
+              "Sunum: Süt şerbeti döküldükten sonra bekletilmeden ılık olarak servis yapılır."
+            ]
+          },
+          {
+            "yemek_adi": "Tatlı Çorba",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Kurutulmuş Kuşburnu veya Kuşburnu Marmeladı": "1 kg veya ½ kg",
+              "Kuru Üzüm": "100 gr",
+              "Toz Şeker": "1,5 kg",
+              "Yarma (Gendime)": "½ kg",
+              "İncir": "100 gr (istenirse)",
+              "Kuru Fasulye": "100 gr",
+              "Kayısı": "100 gr",
+              "Erik": "100 gr (istenirse)",
+              "Fındık": "250 gr",
+              "Un": "1 su bardağı",
+              "Tuz": "Miktarına göre"
+            },
+            "yapilis": [
+              "Kuşburnu iyice pişirilerek ezilir, önce süzgeçten sonra elekten geçirilerek süzülür.",
+              "Başka bir kapta iyice pişirilen yarma ve önceden pişirilen fasulye süzülen suya katılır, un su ile karıştırılarak bulamaç halinde üzerine ilave edilir, bir taşım kaynatılır.",
+              "Başka kapta diğer malzemeler (kayısı, üzüm, erik, incir) pişirilerek şekerle birlikte karışıma ilave edilir ve bir taşım kaynadıktan sonra soğumaya bırakılır.",
+              "İyice soğutulan tatlı çorba üzerine fındık serpilerek servis yapılır."
+            ]
+          },
+          {
+            "yemek_adi": "Tel Helva",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Tereyağı": "250 gram",
+              "Un": "3 su bardağı",
+              "Toz Şeker": "1 kg",
+              "Limon": "1 adet"
+            },
+            "yapilis": [
+              "1 kg. şekere, 2 su bardağı su konulup kaynatılır.",
+              "Üzerine bir miktar limon sıkılır.",
+              "Şeker hafif kırmızı renge gelince bir kaşık kadar bu şekerli sudan soğuk su içine dökülür, katı hale (ağda) gelirse helvanın ağdası olmuş demektir.",
+              "250 gram yağla kavrulan un büyükçe bir tepsi içinde soğutulur, soğutulan ağda beyaz bir renk alıncaya kadar yoğrulur sonra iki ucu birleştirilerek simit şekline getirilir.",
+              "Tepsinin içine konulur, üzerine kavrulmuş un dökülür ve 3-4 kişi tarafından kenarlara doğru çekilerek halka büyütülür.",
+              "Bu halka ikiye katlanarak tekrar aynı işlem yapılır, katlar incelinceye kadar çekilir, tel tel olan katlar kopartılarak servis yapılır."
+            ]
+          },
+          {
+            "yemek_adi": "Yalancı Dolma",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Lahana Yaprağı": "½ kg",
+              "Bulgur": "2 su bardağı",
+              "Parça Et veya Kavurma": "250 gram",
+              "Salça": "2 yemek kaşığı",
+              "Tereyağı": "150 gram",
+              "Un": "2 çorba kaşığı",
+              "Kuru Soğan": "1 adet (büyük)",
+              "Tuz": "Miktarına göre",
+              "Kırmızı Biber": "Miktarına göre"
+            },
+            "yapilis": [
+              "Önce bulgur, pilav gibi pişirilir, lahana yaprakları ise sıcak su ile haşlanır, pişirilmiş bulgur içerisine 2 çorba kaşığı un karıştırılır, dolma iç hazırlanarak yapraklara sarılır.",
+              "Başka bir kapta soğan pembeleşinceye kadar kızartılır, üzerine parça etler eklenerek pişirilir, sonra dolmalar eklenir, kavurma ile pişiriliyorsa dolma ile birlikte kavurmalar konulur, 2 bardak su konularak birkaç taşım pişirilir."
+            ]
+          }
+
+    ]
+  }
+  

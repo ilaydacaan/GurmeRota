@@ -1,0 +1,165 @@
+{
+    "AKSARAY": [
+        {
+            "yemek_adi": "Amasya Dövme Keşkek",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Aşurelik buğday": "2 su bardağı",
+              "Kemikli et": "2 parça",
+              "Tereyağ": "2 yemek kaşığı",
+              "Salça": "2 yemek kaşığı",
+              "Tuz": "Miktarı isteğe göre",
+              "Su": "Yeteri kadar"
+            },
+            "yapilis": [
+              "Buğdayı akşamdan ıslatalım.",
+              "Pişireceğimiz vakitte tencerenin dibine isterseniz sadece kırmızı et, isterseniz de kemikli et (kemik suyu önemli) koyabilirsiniz.",
+              "Üzerine buğdayı ve üç su bardağı su koyup, ocağın en küçük gözünde yarım ayarda pişirmeye başlayalım.",
+              "Arada kontrol edelim ki tenceremizin dibi tutmasın. Gerekirse sıcak su ekleyebilirsiniz. İyice pişip kıvam alana kadar pişirelim.",
+              "Pişirme işlemi bitince kemikleri alıp büyük ağaç bir kaşıkla buğdayları güzelce dövelim. Tamamen ezilip kıvam alıncaya kadar karıştıralım.",
+              "Küçük bir tavada tereyağı eritip içine iki kaşık salça ilave edelim. Salçayı kavurup ocağın altını kapatalım.",
+              "Keşkeği servis tabağına alıp üzerine salçalı sostan dökelim. Afiyet olsun!"
+            ]
+          },
+          {
+            "yemek_adi": "Baklalı Dolma (Amasya Yöresi)",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Salamura yaprak": "Miktarı isteğe göre",
+              "İç harcı için": {
+                "Kuru bakla": "500 gram",
+                "Yarma": "2 su bardağı",
+                "Yeşil mercimek": "1 su bardağı",
+                "Büyük soğan": "2 adet",
+                "Çarliston biber": "2 adet",
+                "Domates": "2 adet",
+                "Salça": "2 yemek kaşığı",
+                "Su": "2 su bardağı",
+                "Sıvı yağ": "1 çay bardağı",
+                "Dereotu": "Miktarı isteğe göre",
+                "Maydanoz": "Miktarı isteğe göre",
+                "Baharat": "Miktarı isteğe göre",
+                "Tuz": "Miktarı isteğe göre"
+              }
+            },
+            "yapilis": [
+              "Yapraklar, tuzunun çıkması için akşamdan suda bekletilir.",
+              "Bakla da, yumuşaması için akşamdan ılık suya konur ve sabah yıkanıp, suyu sürülür.",
+              "Domates, soğan, biber, maydanoz ve dereotu küçük küçük doğranıp, karıştırma kabına alınır.",
+              "Daha sonra, baklayla birlikte geriye kalan bütün malzemeler içine konur ve iyice harmanlanır.",
+              "Yaprakların içine iç harcımızdan elimizle veya tatlı kaşığı ile azar azar konup ve bohça şeklinde kapatılıp, tencereye sıra halinde dizilir. Bütün malzeme bitene aynı işlem yapılır.",
+              "Bitince üstünü geçecek kadar su eklenip, sıvı yağ veya 1 yemek kaşığı tereyağı konup orta ateşte pişirilir.",
+              "Sıcak sıcak, yanında ayran ve yufkayla birlikte servis yapabilirsiniz."
+            ]
+          },
+          {
+            "yemek_adi": "Cevizli Amasya Çöreği",
+            "kategori": "tatlı",
+            "malzemeler": {
+              "Yarım su bardağı yoğurt": "Miktarı isteğe göre",
+              "Yarım su bardağı süt": "Miktarı isteğe göre",
+              "Yarım su bardağı sıvı yağ": "Miktarı isteğe göre",
+              "125 gr tereyağı (oda sıcaklığında)": "Miktarı isteğe göre",
+              "Yarım paket yaş maya": "Miktarı isteğe göre",
+              "1 tatlı kaşığı tuz": "Miktarı isteğe göre",
+              "1 tatlı kaşığı şeker": "Miktarı isteğe göre",
+              "1 su bardağı ceviz (çekilmiş)": "Miktarı isteğe göre",
+              "Alabildiği kadar un (4-5 su bardağı kadar)": "Miktarı isteğe göre",
+              "Üzeri için 1 yumurta": "Miktarı isteğe göre"
+            },
+            "yapilis": [
+              "Mayayı yarım su bardağı kadar ılık suda eritin.",
+              "Ceviz hariç diğer malzemeler ile yumuşak bir hamur elde edin.",
+              "Daha sonra cevizi de ilave ederek son bir kez yoğurun.",
+              "Üzerini örterek, 30-40 dk mayasının gelmesini bekleyin.",
+              "Yağladığınız tepsiye ya da yağlı kağıt serilmiş tepsiye şekil vererek dizin.",
+              "Yumurta sarısını çırparak üzerlerine sürün.",
+              "180 derece fırında altı üstü kızarana kadar pişirin. Afiyet olsun."
+            ]
+          },
+          {
+            "yemek_adi": "Amasya'nın Meşhur Toyga Çorbası",
+            "kategori": "çorba",
+            "malzemeler": {
+              "Katık": "2 su bardağı",
+              "Yarma": "1 su bardağı",
+              "Tuz": "2 tatlı kaşığı",
+              "Nane": "2 tatlı kaşığı",
+              "Su": "10 su bardağı",
+              "Haşlanmış nohut": "1 çay bardağı",
+              "Yumurta": "2 adet",
+              "Un": "4 yemek kaşığı"
+            },
+            "yapilis": [
+              "Katık, yumurta ve un 2 su bardağı su ile açılıp çırpılır.",
+              "Kalan su eklenir, yarma ilave edilir.",
+              "Ocağın altı açılıp karıştırılır.",
+              "Kaynayınca nohut eklenir ve karıştırılır.",
+              "Üzerine nane ve yağı ayrı bir tavada kızdırılır.",
+              "Pişen çorbaya yağ eklenir.",
+              "İsteğe göre koyulaşırsa su ekleyebiliriz. Afiyet olsun."
+            ]
+          },
+          {
+            "yemek_adi": "Yoka Tatlısı",
+            "kategori": "tatlı",
+            "malzemeler": {
+              "Hamur için": {
+                "1 yumurta": "Miktarı isteğe göre",
+                "1 çay bardağı süt": "Miktarı isteğe göre",
+                "1 fincan sıvı yağ": "Miktarı isteğe göre",
+                "1 fiske tuz": "Miktarı isteğe göre",
+                "2 su bardağı ceviz": "Miktarı isteğe göre",
+                "Alabildiği kadar un": "Miktarı isteğe göre"
+              },
+              "Kızartmak için": {
+                "150 g tereyağı": "Miktarı isteğe göre"
+              },
+              "Şerbeti için": {
+                "1 kg şeker": "Miktarı isteğe göre",
+                "4 su bardağı su": "Miktarı isteğe göre",
+                "Yarım tatlı kaşığı limon suyu": "Miktarı isteğe göre"
+              }
+            },
+            "yapilis": [
+              "Malzemeler karıştırılır. Un ilave edilir.",
+              "Kulak memesi yumuşaklığında özlü bir hamur yapılır.",
+              "Ceviz büyüklüğünde bezeler ayrılır.",
+              "Hamur 1 saat kadar dinlendirilir.",
+              "Yufkalar açılabildiği kadar büyütülür.",
+              "Sac üzerinde kızarmadan çevire çevire kabartılarak kurutulur.",
+              "Tatlı yapılacağı zaman su ile ıslatılır.",
+              "Arasına ceviz konularak istenilen şekil verilir veya tepsiye düz olarak dizilir.",
+              "Orta kata ceviz konulur.",
+              "Nemli iken kesilerek şekil verilir.",
+              "Pembeleşinceye kadar fırında kızartılır.",
+              "Üzerine şerbeti soğuk olarak dökülür. Servise hazırdır."
+            ]
+          },
+          {
+            "yemek_adi": "Patlıcan Pehli",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Patlıcan": "6 adet",
+              "Sıvı yağ": "1 su bardağı",
+              "Domates": "4 adet",
+              "Kaburga yerinden koyun eti": "1 kg",
+              "Kara biber": "Miktarı isteğe göre",
+              "Tuz": "Miktarı isteğe göre"
+            },
+            "yapilis": [
+              "Patlıcanlar alacalı soyulur.",
+              "Uzunlamasına üçe bölünür. Tekrar enine üçe bölünür.",
+              "Tavada kızgın yağda hafif kızartılarak tepsiye döşenir.",
+              "Üzerine kabuğu soyulmuş, halkalar halinde doğranmış domatesler ilave edilir.",
+              "Üzerine az suda haşlanmış kaburga eti suyu ile birlikte yerleştirilir.",
+              "Tuz ve kara biber ilave edilir.",
+              "Etler kızarıp suyunu çekene kadar fırında pişirilir. Sıcak servis yapılır."
+            ]
+          }
+          
+          
+       
+    ]
+  }
+  

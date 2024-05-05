@@ -1,0 +1,327 @@
+{
+    "ADIYAMAN": [
+      {
+        "yemek_adi": "Alaca Çorba",
+        "kategori": "çorba",
+        "malzemeler": {
+          "nohut": "100 g (Bir gece önceden ıslatılmış)",
+          "yeşil mercimek": "100 g",
+          "buğday": "100 g",
+          "kırmızı soğan": "100 g (İnce doğranmış)",
+          "sarımsak": "3 diş (İnce doğranmış)"
+        },
+        "terbiye_malzemeleri": {
+          "domates salçası": "1/2 fincan",
+          "tereyağı": "60 g",
+          "tarhun": "1 yemek kaşığı",
+          "pul biber": "1 çay kaşığı"
+        },
+        "yapılış": [
+          "Nohut, buğday ve yeşil mercimeği ayrı tencerelerde haşlayarak pişirin.",
+          "Daha sonra süzün ve hepsini bir tencereye aldıktan sonra üzerini geçecek kadar su ilave edin ve kaynatın.",
+          "Kaynamaya başlayınca soğan ve sarımsağı ilave edin.",
+          "Kaynayan sudan 2 kaşık alarak bir kasede salça ile karıştırın ve çorbaya ilave edin.",
+          "Küçük bir tavada tereyağını eritin ve önce pul biberi daha sonra da tarhunu ilave ederek karıştırın.",
+          "Çorbayı kaselere alın ve üzerine baharatlı tereyağını gezdirdikten sonra sıcak servis edin. Afiyet olsun!"
+        ]
+      },
+      {
+        "yemek_adi": "Meyir Çorbası",
+        "kategori": "çorba",
+        "malzemeler": {
+          "yoğurt": "2 su bardağı",
+          "patlıcan": "2 adet",
+          "bulgur": "1 su bardağı",
+          "sivri biber": "5 adet",
+          "soğan": "2 adet",
+          "sıvıyağ": "1/2 kahve fincanı",
+          "pul biber": "1 yemek kaşığı"
+        },
+        "yapılış": [
+          "Biber ve patlıcanları küp küp doğrayarak bir tencereye alın.",
+          "Üzerini geçecek şekilde su ekleyin ve haşlayın. Sebzeler yumuşamaya başladığında bulguru ilave ederek suyunu çekene kadar pişirin. Bulgur ekleme aşamasında çok az miktarda sıcak su ekleyebilirsiniz.",
+          "Bulgurlar suyunu çektiğinde ocaktan alın ve ılıması için bekletin.",
+          "Ilıyan bulgurların üzerine yoğurdu ekleyin ve karıştırın. Tamamen soğuyana kadar bekleyin.",
+          "Soğanları yemeklik doğradıktan sonra tavaya sıvıyağı ekleyin. Kızgın yağa soğan ve pul biberi ekleyerek kavurun.",
+          "Sıcak yağı soğuk çorbanın üzerine gezdirin ve bekletmeden servis edin. Afiyet olsun!"
+        ]
+      },
+      {
+        "yemek_adi": "Besni Tava",
+        "kategori": "yemek",
+        "malzemeler": {
+          "kuzu kuşbaşı et": "700 gr",
+          "patlıcan": "4 adet",
+          "domates": "5 adet",
+          "sarımsak": "7 diş",
+          "kırmızı kapya biber": "4 adet",
+          "yeşil biber": "5 adet",
+          "zeytinyağı": "5 yemek kaşığı",
+          "tuz": "istek üzerine",
+          "karabiber": "istek üzerine"
+        },
+        "yapılış": [
+          "Patlıcanlar yıkanır, alacalı soyularak fırın tepsisine alınır.",
+          "Domatesler küp küp doğranarak eklenir.",
+          "Biberler uzunlamasına ikiye bölünür, diğer sebzeler ile eşit boyutlarda doğranır.",
+          "Kalan bütün malzeme eklenerek harmanlanır.",
+          "Fırın tepsisine 1 çay bardağı su gezdirilir.",
+          "200 derece fırında 1 saat kontrollü olarak pişirilir. Fırının gücüne göre süre değişkenlik gösterebilir, kontrol edin. Afiyet olsun!"
+        ]
+      },
+      {
+        "yemek_adi": "Adıyaman Usulü Çiğ Köfte",
+        "kategori": "yemek",
+        "malzemeler": {
+          "esmer ince bulgur": "3 su bardağı",
+          "çiğ köftelik et": "150 gr",
+          "isot": "1,5 su bardağı",
+          "su": "1,5 su bardağı",
+          "zeytinyağı": "1,5 su bardağı",
+          "maydanoz": "yarım demet",
+          "büyük boy kuru soğan": "1 adet",
+          "köfte baharatı": "2 tatlı kaşığı",
+          "domates salçası": "3 yemek kaşığı",
+          "tuz": "1 tatlı kaşığı",
+          "karabiber": "1 tatlı kaşığı",
+          "toz şeker": "1 tatlı kaşığı",
+          "limon": "1 adet",
+          "buz parçaları": "1 kase"
+        },
+        "yapılış": [
+          "Öncelikte çiğ köfteyi yoğurmak için özel tepsiler vardır. Onu temin ettikten sonra ilk yapılacak işlem suyu ve isotu bir kasede birleştirmek. Su isotun içine geçerek şişmesini sağlayacaktır.",
+          "Tepsimize küçük küçük doğradığımız soğanlarımızı, etimizi, salçamızı ve isotlu harç hariç tüm baharatlarımızı döküyoruz. Dip not, şeker görmek sizi şaşırtabilir:) Domates salçası kullanılır bu yüzden onun ekşi ve asit tadını almak için şeker kullanıyorum.",
+          "5 dakika boyunca bu malzemeleri yoğuruyoruz. Daha sonra üzerine simitimizi ekliyoruz. Yoğurmaya tekrar devam ediyoruz.",
+          "Suyunu çektiğinde kuru hale geldiğinde içine bir miktar buz ve kabuklu olarak 4'e doğradığımız limonu atıyoruz. Yoğurma işlemi tekrar devam ediyor.",
+          "Çiğ köfte kurudukça içine isotlu harçtan yavaş yavaş ekleyip tekrar yoğuruyoruz. Çiğ köftenin olduğunu tadına bakarak ve dokunarak anlarsınız. Eğer tattığınız zaman bulgurun çıtırdadığını hissetmezseniz ve çiğ köfte yoğururken elinizde sakız gibi oluyorsa hele de terleriniz akmaya başladıysa alnınızdan olmuş demektir:)",
+          "Bu esnaya geldiğinizde içine maydanozu ve zeytinyağını alıp 2 dakika daha yoğuruyorsunuz. Daha sonra sıkma işlemine geçebilirsiniz."
+        ]
+      },
+      {
+        "yemek_adi": "Kavurmalı Hitap",
+        "kategori": "yemek",
+        "malzemeler": {
+          "hamuru": {
+            "maya": "20 gr yaş maya",
+            "şeker": "1 yemek kaşığı şeker",
+            "tuz": "1 çay kaşığı tuz",
+            "su": "1 bardak ılık su",
+            "eriş_un": "2,5 su bardağı ERİŞ UN (baklavalık,böreklik)"
+          },
+          "içi": {
+            "kavurma": "600 gr kavurma",
+            "soğan": "1 adet orta boy soğan",
+            "domates_salçası": "1 yemek kaşığı domates salçası",
+            "biber_salçası": "1 yemek kaşığı biber salçası",
+            "maydanoz": "8-10 yaprak maydanoz",
+            "zeytinyağı": "1 çay bardağı zeytinyağı",
+            "yenibahar": "1 tatlı kaşığı yenibahar",
+            "tuz": "Tuz",
+            "karabiber": "çekilmiş tane karabiber",
+            "pul_biber": "1 yemek kaşığı pul biber"
+          }
+        },
+        "yapılışı": [
+          "Hamur için su, maya, şeker ve tuzu bir kabın içerisinde karıştırın ve maya eriyince ERİŞ UN ile yumuşak bir hamur yoğurun.",
+          "Yoğrulan hamurun üstünü kapatarak mayalanmaya bırakın.",
+          "İçi için kavurma, soğan, maydanoz doğrayıp diğer malzemeler ile güzelce harmanlayın.",
+          "15-20 dakika mayalanan hamuru bezelere ayırıp uzun açın.",
+          "İç harç koyup kapalı pide gibi kapatılan kavurmalı hıtabı önceden 200 derecede ısıtılmış fırında pişirin. İster bütün ister dilimleyerek servis edin."
+        ]
+      },
+      {
+        "yemek_adi": "Buhara Pilavı",
+        "kategori": "yemek",
+        "malzemeler": {
+          "ayçiçek yağı": "Yarım çay bardağı ayçiçek yağı",
+          "soğan": "1 adet orta boy soğan",
+          "tavuk göğüs eti": "1 tüm tavuk göğüs eti",
+          "havuç": "1 adet orta boy rendelenmiş havuç (küçükse 2 tane olabilir)",
+          "domates salçası": "1 yemek kaşığı dolusu domates salçası",
+          "kuş üzümü": "2 yemek kaşığı kadar kuş üzümü",
+          "dolma fıstığı": "2 yemek kaşığı kadar dolma fıstığı",
+          "pul biber": "1 çay kaşığı pul biber",
+          "karabiber": "Yarım çay kaşığı karabiber",
+          "tarçın": "Yarım çay kaşığından biraz az tarçın",
+          "karanfil": "2-3 adet karanfil",
+          "tuz": "Tuz",
+          "pirinç": "2 su bardağı pirinç (30 dk sıcak suda bekletilmiş)",
+          "su": "3,5 su bardağı sıcak su"
+        },
+        "yapılışı": [
+          "İlk önce, pirinci sıcak suda 30 dakika ıslatıyoruz. Pirinci ıslatmıyorsak, 1 bardak pirince 2 bardak su koyuyoruz.",
+          "Yağ, yemeklik uzun doğranmış soğan ve kuşbaşı doğranmış tavuk etini soteliyoruz.",
+          "1-2 dakika da havucu ekleyip soteledikten sonra, salçayı ekleyip biraz kavuruyoruz.",
+          "Tuz ve su hariç, baharatlar ve diğer malzemelerle tekrar kavuruyoruz.",
+          "Son olarak suyunu ve tuzunu ayarlayıp, kısık ateşte pirinçler suyunu çekene kadar pişiriyoruz."
+        ]
+      },
+      {
+        "yemek_adi": "Dövmeç (Adıyaman Yöresi)",
+        "kategori": "yemek",
+        "malzemeler": {
+          "patlıcan": "1 kg",
+          "yeşil biber": "Yarım kilo",
+          "domates": "1 kg",
+          "sarımsak": "9 - 10 diş",
+          "sıvı yağ": "3 - 4 yemek kaşığı",
+          "tuz": "Miktarına göre",
+          "pulbiber": "Miktarına göre"
+        },
+        "yapılışı": [
+          "Patlıcan, biber ve domates şişlere takılarak közlenir.",
+          "Közlenen sebzelerin kabukları soyulur ve doğranır.",
+          "Doğranan sebzeler bir kapta dövülür ve iyice karıştırılır.",
+          "Sarımsak, tuz ve pulbiber eklenir ve dövmeye devam edilir.",
+          "Fırın tepsisine alınan dövmeçin üzerine sıvı yağ gezdirilir ve 200°C fırında üzeri hafif kızarana kadar yaklaşık 15 - 20 dakika pişirilir."
+        ]
+      },
+      {
+        "yemek_adi": "Kel Köfte (Adıyaman)",
+        "kategori": "yemek",
+        "malzemeler": {
+          "kıyma": "100 gr",
+          "ince bulgur": "2 su bardağı",
+          "irmik": "1 çay bardağı",
+          "un": "1 çay bardağı",
+          "yumurta": "1 adet",
+          "sıcak su": "2 su bardağı",
+          "karabiber": "Miktarına göre",
+          "pul biber": "Miktarına göre",
+          "tuz": "Miktarına göre",
+          "kuru nane": "Miktarına göre",
+          "sos için soğan": "1 adet büyük boy",
+          "karışık salça": "1.5 yemek kaşığı (azaltılabilir)",
+          "maydanoz": "Bir tutam",
+          "zeytinyağı": "3 yemek kaşığı (arttırılabilir)"
+        },
+        "yapılışı": [
+          "İnce bulgur ve irmik yoğurma kabına alınarak sıcak su eklenir ve kaşıkla karıştırılır. Üstü kapatılıp 5 dakika kadar bekletilir.",
+          "Sonra kalan malzemeler eklenerek arada el suya batırılıp iyice yoğrulur.",
+          "Yoğrulan karışımdan minik minik istenilen şekil verilir.",
+          "Bir tencerede su kaynatılır ve biraz tuz eklenir. Kaynayan suya köfteler atılır ve tahta kaşıkla arada karıştırılarak yaklaşık 15 dakika kadar pişirilir.",
+          "Bir tavaya zeytinyağı konularak ısıtılır. İnce doğranmış soğan eklenir ve yumuşayana kadar kavrulur. Ardından salça, baharatlar ve maydanoz eklenir.",
+          "Pişen köfteler süzülerek (soğuk sudan geçirmeden direkt süzülüp) tavaya konulur ve karıştırılır. Özleşen köfteler servise hazırdır."
+        ]
+      },
+      {
+        "yemek_adi": "Parmak Kebabı",
+        "kategori": "yemek",
+        "malzemeler": {
+          "orta boy patlıcan": "6 adet",
+          "kuzu kuşbaşı et": "500 gr",
+          "yeşil biber": "6 adet",
+          "domates": "5 adet",
+          "kuru soğan": "2 adet",
+          "sarımsak": "1 baş",
+          "sıcak su": "2 su bardağı",
+          "salça": "1 yemek kaşığı",
+          "tuz": "Miktarına göre",
+          "karabiber": "Miktarına göre",
+          "pul biber": "Miktarına göre",
+          "sıvı yağ": "Kızartmak için"
+        },
+        "yapılışı": [
+          "Patlıcanları alacalı soyun, uzunlamasına parmak şeklinde ince olacak şekilde kesin. Tuzlu suda bekletin, acısı varsa gitsin.",
+          "Eti yağ eklemeden bir tencereye koyun ve suyunu salıp tekrar çekene kadar pişirin.",
+          "Etler pişerken soğan ve sarımsakları doğrayın, küçük olacak şekilde.",
+          "Etler suyunu çekince sarımsak ve soğanları ekleyin, pembeleşene kadar pişirin.",
+          "Rengi değişince salçayı ekleyip bir iki kez daha karıştırdıktan sonra yemeklik doğradığınız domatesleri ekleyin.",
+          "Ağzını kapatıp bu şekilde on dakika pişirip iki su bardağı sıcak suyu ekleyin, baharatları da ekleyin ve kapağını kapatın.",
+          "Yirmi dakika pişirin.",
+          "Etler pişerken patlıcan ve biberleri kızartın. Ayrı ayrı tabaklara çıkarın.",
+          "Etimiz piştikten sonra fırın kabına (ben borcam kullandım) en alta patlıcanları dizin.",
+          "Üzerine pişirdiğiniz etli sosu dökün, üzerine kızarttığınız biberleri dizin.",
+          "200 derecede yaklaşık 25 dakika pişirin. Yanında bulgur pilavıyla harika oluyor. Afiyet olsun :)"
+        ]
+      },
+      {
+        "yemek_adi": "Adıyaman Köftesi",
+        "kategori": "yemek",
+        "malzemeler": {
+          "patlıcan": "4 adet",
+          "soğan": "1 adet",
+          "maydanoz": "1 tutam",
+          "karabiber": "Miktarına göre",
+          "pul biber": "Miktarına göre",
+          "kekik": "Miktarına göre",
+          "kimyon": "Miktarına göre",
+          "tuz": "Miktarına göre",
+          "kıyma": "250 gram",
+          "galeta unu": "2 yemek kaşığı",
+          "zeytinyağı": "1 kahve fincanı",
+          "sivri biber": "4 adet",
+          "domatesin rendesi": "2 adet",
+          "sarımsak": "1 diş",
+          "sos için zeytinyağı": "1 yemek kaşığı"
+        },
+        "yapılışı": [
+          "Patlıcanları közleyin. Sıcakken kabuklarını soyun, baş kısımlarını koparmayın.",
+          "Közlenmiş patlıcanlara tuz ve karabiber serpin.",
+          "Köftesi için; yoğurma kabına kıyma, rendelenmiş soğan, ince kıyılmış maydanoz, baharatları ve galeta ununu koyun ve iyice yoğurun.",
+          "Tezgahın üzerine streç film koyun ve köfteden parça kopartıp, elimizle incecik açın.",
+          "Tam ortasına közlenmiş patlıcan yerleştirin ve köfteyi streç film yardımıyla sarın, fırın tepsisine dizin. Tüm patlıcanları aynı şekilde yapın.",
+          "Köftelerin aralarına 1 adet sivri biber koyun. Üzerlerine zeytinyağı gezdirin.",
+          "Önceden ısıtılmış, 185 derecede fırında pişirin.",
+          "Sos için; tencereye yağı koyup ısıtın. Üzerine domates rendesi ve ince kıyılmış sarımsağı ekleyin ve karıştırın.",
+          "Domatesler suyunu çekene kadar pişirin, ardından köftelerin üzerine döküp servis edin."
+        ]
+      },
+      {
+        "yemek_adi": "Adıyaman Usulü Topak Helvası",
+        "kategori": "tatlı",
+        "malzemeler": {
+          "un": "4 su bardağı",
+          "beyaz susam": "1 çay bardağı",
+          "kahverengi susam": "1 çay bardağı",
+          "ceviz": "2 su bardağı (isteğe bağlı)",
+          "sıvı yağ": "2 su bardağı",
+          "pekmez": "2,5 su bardağı"
+        },
+        "yapılışı": [
+          "Öncelikle, unu rengi kahverengi olana kadar kavurun.",
+          "Sonra susamları ekleyip, iyice kavurun.",
+          "Kavrulduktan sonra cevizi ekleyip, onunla da kavurun.",
+          "Yağın yarısını koyup, birkaç defa karıştırıp indirin.",
+          "Ocaktan indirdikten sonra, sıcak sıcak pekmezini koyup iyice yoğurun kalan yağı da ekleyin.",
+          "Sonra topak topak yapıp, tabağa dizin."
+        ]
+      },
+      {
+        "yemek_adi": "Şillik Tatlısı (Adıyaman)",
+        "kategori": "tatlı",
+        "malzemeler": {
+          "hamur": {
+            "süt": "1.5 bardak",
+            "un": "1 bardak",
+            "kabartma tozu": "yarım paket",
+            "ceviz": "istediğiniz miktarda"
+          },
+          "şerbet": {
+            "şeker": "1 bardak",
+            "su": "1 bardak"
+          }
+        },
+        "yapılışı": [
+          "Hamuru için ceviz hariç bütün malzemeleri bir kaba alıp çırpıyoruz.",
+          "Krep tavasını biraz yağlayıp bir kepçe karışımdan döküyoruz.",
+          "Pişen hamurun içine dövülmüş ceviz serpip sarıyoruz dilim dilim kesiyoruz.",
+          "Borcamın içine sırasıyla diziyoruz.",
+          "Diğer yandan şerbetimizi de pişiriyoruz.",
+          "Kaşıktan damla damla değil İp gibi akana kadar pişiriyoruz.",
+          "Şerbet sıcakken hamurumuzun üstüne döküyoruz.",
+          "Üzerini cevizle süsleyebilirsiniz veya çikolata sosu ile."
+        ]
+      }
+
+      
+      
+      
+            
+      
+      
+      
+
+    ]
+  }
+  

@@ -1,0 +1,116 @@
+{
+    "AĞRI": [
+        {
+            "yemek_adi": "Ağrı Usulü Haşıl",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Haşıl için": {
+                "yarma": "3 su bardağı",
+                "sıcak su": "Az miktarda",
+                "tuz": "1 tatlı kaşığı"
+              },
+              "Üzeri İçin": {
+                "tereyağ": "250-300 gram (eritilmiş)"
+              },
+              "Sosu İçin": {
+                "yoğurt": "2 su bardağı",
+                "sarımsak": "1 diş"
+              }
+            },
+            "yapılış": [
+              "Yarmaları bir tencereye alın. Üzerini geçecek kadar sıcak su ekleyerek şişmesini bekleyin.",
+              "Yarma yumuşadıktan sonra üzerine tuz ekleyerek bulamaç hâlini alıncaya kadar pişirin.",
+              "Pişen yarmaları servis tabağına alarak ortasını havuz şeklinde açın.",
+              "Ardından bir kapta, ezilmiş sarımsak ve yoğurdu karıştırarak sos elde edin.",
+              "Erittiğiniz tereyağını yarma havuzunun üzerine dökün.",
+              "Yemeğin kenarına da yoğurt sosunu gezdirerek servis yapın."
+            ]
+          },
+          {
+            "yemek_adi": "Abdigör Köfte",
+            "kategori": "yemek",
+            "malzemeler": {
+              "Köfte için": {
+                "dana bonfile": "1 kg",
+                "yumurta": "2 adet",
+                "soğan": "1 adet",
+                "karabiber": "2 çorba kaşığı",
+                "kırmızı toz biber": "2 çay kaşığı"
+              },
+              "Garnitür için": {
+                "patlıcan": "2 adet",
+                "sivri biber": "250 gram",
+                "maydanoz": "1 bağ",
+                "domates": "1 kg"
+              }
+            },
+            "yapılış": [
+              "Bonfileler, yöreye ait taş üzerinde tahta tokmakla 25 dakika sinir ve yağları ayrılacak şekilde dövünlür.",
+              "Ete 2 tatlı kaşığı tuz eklenir. 25 dakika daha dövülür.",
+              "Dövme işlemi bittikten sonra, macun kıvamına gelen ete, ince kıyılmış soğan, karabiber, toz biber, yumurta ve un eklenip yoğurulur.",
+              "Diğer tarafta, geniş bir tencereye, yarısını geçecek kadar su konur. 2 tatlı taşığı tuz eklenir. Kaynamaya yakın suya 1 paket toz bulyon atılır.",
+              "Köftelik malzemeden ceviz büyüklüğünde parçalar koparılıp, ıslak el ile şekil verilir ve suya atılır. Tencerenin kapağı kapatılıp, 20-25 dakika harlı ateşte pişirilir.",
+              "Köfteler piştikten sonra, suyu süzülür. Köfteler, tereyağında kavrulur.",
+              "Sunum için servis tabağında pilav havuz şeklinde açılır. Üzerine köfteler bırakılır.",
+              "Diğer tarafta daha önceden hazırlanıp, kabuğu soyulmuş ve ufak doğranmış 50 gram tereyağında sote edilmiş domates sosu ilave edilir.",
+              "Garnitürle süsleyerek servis yapılır."
+            ]
+          },
+          {
+            "yemek_adi": "Gösteberg Et",
+            "kategori": "yemek",
+            "malzemeler": {
+              "kuşbaşı doğranmış kuzu ya da oğlak eti": "1 kilo",
+              "tereyağı": "250 gram",
+              "salça": "2 yemek kaşığı",
+              "rendelenmiş soğan": "2 adet"
+            },
+            "yapılış": [
+              "Kuşbaşı eti bir kaba alın.",
+              "Oda sıcaklığındaki tereyağını, rendelenmiş soğanı ve salçayı ekleyerek etle güzelce harmanlayın.",
+              "Karışımı, sac tavada ya da düdüklü tencerede harlı ateşte pişirin.",
+              "Etinizi pilavla servis edin."
+            ]
+          },
+          {
+            "yemek_adi": "Hengel (Ağrı Usulü)",
+            "kategori": "yemek",
+            "hazirlama_suresi": "25 Dakika",
+            "pisirme_suresi": "10 Dakika",
+            "kisilik": "6-8 Kişilik",
+            "malzemeler": {
+              "Un": "8 su bardağı",
+              "Su": "2,5 su bardağı",
+              "Tuz": "2,5 tatlı kaşığı",
+              "Sarımsaklı yoğurt için": {
+                "Orta boy sarımsak": "4 diş",
+                "Yoğurt": "2 su bardağı kadar"
+              },
+              "Üzeri İçin": {
+                "Orta boy kuru soğan": "1 adet",
+                "Sıvı yağ": "3 yemek kaşığı"
+              }
+            },
+            "yapilis": [
+              "Hamur malzemelerimizi geniş ve derin bir kapta iyice karıştırıp yoğurarak kulak memesi kıvamından daha sert bir hamur elde ediyoruz.",
+              "Hamurumuzu bezelere ayırıp üstlerini ve altlarını unlayıp üzerleri örtülü bir şekilde 15 dakika dinlendiriyoruz. (Hamurun kolay açılması için)",
+              "Dinlendirme işleminden sonra hamurlarımızı oklava yardımıyla açıyoruz. Oklavayla açarken arada bir unlayalım ki yapışma olmasın.",
+              "Bütün hamurlarımızı açtıktan sonra 1 tane hamurumuzu oklavaya sarıyoruz ve bıçakla oklava doğrultusunda 1 kere kesiyoruz. Kestiğimiz hamur üst üste sarıldığı için kestikten sonra birçok dikdörtgen parçaya bölündüğünü göreceğiz. Ve bu dikdörtgenleri orta boy kareler halinde kesiyoruz. Aynı işlemi bütün hamurlara yapıyoruz.",
+              "Kestiğimiz kareleri unluyoruz ve onlar dinlenirken biz de sarımsaklı yoğurdumuzu hazırlayalım.",
+              "Sonra büyük bir tencerenin 3/4ünü suyla doldurun kaynatıyoruz. İsterseniz suyu ketılda da kaynata bilirsiniz.",
+              "Tenceredeki orta harlı ateşte kaynayan suyumuzun içine yarım yemek kaşığı tuz ekliyoruz ve karıştırıyoruz.",
+              "Hengellerimizi birkaç partide pişiriyoruz. Suyumuz kaynarken su yüzüne çıkıyorsa pişmiş demektir.",
+              "Son olarak yağla soğanı kavuruyoruz. Bu meşhur yaprak mantımızı geniş bir tabakta, hengellerin üzerine yoğurt ve yoğurdun üzerine de kavrulmuş yağlı soğanı gezdirip, isterseniz kırmızı toz biber ve nane gibi baharatlarla renklendirebilirsiniz."
+            ]
+          }
+          
+          
+          
+          
+     
+      
+      
+      
+    ]
+  }
+  

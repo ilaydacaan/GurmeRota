@@ -1,0 +1,186 @@
+{
+    "HATAY": [
+        {
+            "tarif_adı": "Hatay Mutfağından Nefis Tepsi Kebabı",
+            "kategori": "yemek",
+            "malzemeler": {
+              "kıyma": "750 g",
+              "soğan": "1 adet",
+              "biber (acı)": "2-3 adet",
+              "kırmızı biber": "1 adet",
+              "sarımsak": "2 diş",
+              "biber salçası": "1,5 yemek kaşığı",
+              "domates salçası": "Yarım yemek kaşığı",
+              "maydanoz": "Yarım demet (ince kıyılmış)",
+              "sıvı yağ": "Yarım çay bardağı",
+              "pul biber": "1 çay kaşığı",
+              "kekik": "1 çay kaşığı",
+              "kimyon": "1,5 tatlı kaşığı",
+              "karabiber": "Miktarı damak tadınıza göre",
+              "tuz": "Miktarı damak tadınıza göre",
+              "Üzeri için domates": "Adet",
+              "Üzeri için biber": "Adet",
+              "ilik su": "1 çay bardağı",
+              "domates salçası (üzeri için)": "1 yemek kaşığı",
+              "biber salçası (üzeri için)": "1 yemek kaşığı"
+            },
+            "yapılışı": [
+              "Kıymayı tepsinin içine alın.",
+              "Üzerine ince kıyılmış soğan, ezilmiş sarımsak, sıvı yağ, ince kıyılmış biberler, bütün baharatlar ve salçaları ekleyin. İyice yoğurun.",
+              "İnce kıyılmış maydanozu ekleyip tekrar karıştırın.",
+              "Karışımı tepsinin veya bir borcamın içine yayın, elimle bastırarak düzgün bir şekil verin.",
+              "Üzeri için ılık suyun içine domates ve biber salçalarını ekleyip karıştırın.",
+              "Karışımı tepsiye dökün, üzerini biber ve domatesle süsleyin.",
+              "Önceden ısıtılmış 170 derece fırında yaklaşık 30-35 dakika pişirin.",
+              "Tepsi kebabı servise hazır. Afiyet olsun!"
+            ]
+          },
+          {
+            "tarif_adı": "Hatay Kağıt Kebabı",
+            "kategori": "yemek",
+            "malzemeler": {
+              "kuzu kıyma": "400 gr",
+              "yeşil biber": "2 adet",
+              "kırmızı biber": "1 adet",
+              "sarımsak": "2 diş",
+              "maydanoz": "Bir tutam",
+              "tuz": "Miktarı damak tadınıza göre",
+              "karabiber": "Miktarı damak tadınıza göre",
+              "süslemek için domates": "1 adet",
+              "süslemek için biber": "1 adet"
+            },
+            "yapılışı": [
+              "Yeşil biberleri, kırmızı biberi, sarımsağı ve maydanozu robotta iyice çekin.",
+              "Kıymayı bir kaba alın, üzerine tuz ve karabiber ekleyin. Hazırladığınız biberli karışımı da ekleyip iyice yoğurun.",
+              "Fırın tepsisine yağlı kağıt serin ve kağıdın kenarlarını suyun tepsiye akmaması için kıvırın.",
+              "Hazırladığınız kıyma karışımını üç eşit parçaya bölün ve ellerinizle açarak ince bir şekilde yayın.",
+              "Üzerlerine domates ve biber dilimleri yerleştirin.",
+              "Önceden ısıtılmış 200 derece fırında suyunu çekene kadar yaklaşık yarım saat pişirin.",
+              "Kebabınızı sıcak olarak servis yapın. Afiyet olsun!"
+            ]
+          },
+          {
+            "tarif_adı": "Humus",
+            "kategori": "yemek",
+            "malzemeler": {
+              "nohut": "500 gram koçbaşı nohut (Haşlanmış, kabukları alınmış hali ile yaklaşık 2-3 su bardağı)",
+              "ılık su (nohut haşlanırken)": "1,5 çay bardağı",
+              "ılık su (humus için)": "1 çay bardağı",
+              "tahin": "1/2 çay bardağı",
+              "kimyon": "1 çay kaşığı",
+              "limon suyu": "4 çorba kaşığı",
+              "sarımsak": "3-4 diş (ezilmiş)",
+              "tuz": "Miktarı damak tadınıza göre",
+              "süslemek için kimyon": "Miktarı damak tadınıza göre",
+              "süslemek için kırmızı pul biber": "Miktarı damak tadınıza göre",
+              "süslemek için sumak": "Miktarı damak tadınıza göre",
+              "süslemek için kıyılmış maydanoz": "Miktarı damak tadınıza göre",
+              "süslemek için arzuya göre salatalık turşusu ve turp": "İsteğe bağlı"
+            },
+            "yapılışı": [
+              "Nohutları bir gece önceden ıslatın. Ardından düdüklü tencereye alın ve bir taşım kaynatın.",
+              "Çıkan köpüklü suyu dökün ve tekrar sıcak su ekleyerek düdüklü tencerede tam pişirin (yaklaşık 15-20 dakika).",
+              "Pişen nohutların kabuklarını temizleyin ve ölçüdeki nohudu elde edin.",
+              "Kabuksuz nohutları orta derinlikte bir tencereye alın, üzerine 1,5 çay bardağı su ekleyin. Tahta kaşıkla ezerek suyunu hafifçe çektirin.",
+              "Ilınmış nohutu el püre yapıcınızdan geçirerek pürüzsüz hale getirin.",
+              "Nohut katı bir kıvam alacak. 2. kez kısık ateşe alarak 1 çay bardağı ılık su ekleyin.",
+              "Yumuşatın ve sürekli karıştırarak açılmasını sağlayın. Ardından tahin, limon suyu, ezilmiş sarımsak, tuz ve kimyonu ekleyin. İyi bir şekilde karıştırın.",
+              "Servis tabağına aldığınız humusu kimyon, kırmızı pul biber, sumak ve kıyılmış maydanoz ile süsleyin. Üzerine ince zeytinyağı gezdirin.",
+              "Humusu ılık servis yapın. Afiyet olsun!"
+            ]
+          },
+          {
+            "tarif_adı": "Kaytaz Böreği",
+            "kategori": "yemek",
+            "malzemeler": {
+              "hamur için": {
+                "ılık su": "1,5 su bardağı",
+                "tuz": "1 tatlı kaşığı",
+                "şeker": "1 tatlı kaşığı",
+                "toz maya": "1 tatlı kaşığı",
+                "un": "3,5 su bardağı"
+              },
+              "kıymalı harç için": {
+                "soğan": "2 adet",
+                "kıyma": "250 gram",
+                "tuz": "Miktarı damak tadınıza göre",
+                "karabiber": "Miktarı damak tadınıza göre",
+                "domates salçası": "1 yemek kaşığı",
+                "nar ekşisi": "1 yemek kaşığı"
+              },
+              "hamuru açmak için": {
+                "eritilmiş tereyağı": "Miktarı ihtiyaca göre"
+              }
+            },
+            "yapılışı": [
+              "Yoğurma kabına, un hariç diğer malzemeleri koyun ve karıştırın.",
+              "Azar azar un ekleyerek yumuşak bir hamur yoğurun ve 40 dakika mayalanmaya bırakın.",
+              "Hamur mayalanırken, kıymalı harcı hazırlayın. Soğanı ince ince doğrayıp, tuz ilave ederek ovun ve suyunu sıkın.",
+              "Suyu sıkılmış soğanların üzerine kıyma, tuz, karabiber, salça ve nar ekşisi ekleyip yoğurun.",
+              "Mayalanan hamurdan mandalina büyüklüğünde parçalar koparıp bezeler yapın.",
+              "Parmaklarınızı eritilmiş tereyağına batırıp, bezeleri çok ince olacak şekilde açın. Bu esnada hamur yırtılabilir, bu sizi korkutmasın.",
+              "Açtığınız hamurun bir ucundan tutup kaldırın ve tezgahın üzerinde kendi etrafında sarın.",
+              "Hazırlanan kıymalı malzemeden cevizden büyük parçalar koparıp, hamurların ortasına hafifçe bastırarak yerleştirin.",
+              "Üzerine eritilmiş tereyağı sürüp, 180°C ısıtılmış fırında pişirin.",
+              "Sıcak, sıcak servis edebilirsiniz."
+            ]
+          },
+          {
+            "tarif_adı": "Hatay’ın Meşhur Biberli Ekmek",
+            "kategori": "yemek",
+            "malzemeler": {
+              "iç harcı için": {
+                "kuru soğan": "1 adet",
+                "baharatlar": "1 çay kaşığı kişniş, 1 çorba kaşığı kekik, 1 çorba kaşığı çörek otu, 1 çorba kaşığı susam",
+                "taze çökelek veya lor peyniri": "Yarım kilo",
+                "biber salçası": "7-8 çorba kaşığı (biberin derecesine göre isteğe bağlı olarak miktar artırılabilir veya azaltılabilir)",
+                "saf zeytinyağı": "1,5 su bardağı"
+              },
+              "ekmek hamuru için": {
+                "un": "350 gram (3,5 su bardağı)",
+                "yaş maya": "5 gram (tepeleme 1 çay kaşığı)",
+                "şeker": "1 çay kaşığı",
+                "tuz": "1 tatlı kaşığı",
+                "su": "250 ml"
+              }
+            },
+            "yapılışı": [
+              "Soğanları ince ince doğrayın veya robottan geçirin.",
+              "Doğranmış soğanların içine baharatları ekleyin ve elinizle ufalayın.",
+              "Bu karışıma biber salçasını ekleyip kaşıkla karıştırın.",
+              "Sonra lor peyniri veya çökeleği ekleyin ve karışımı homojen hale getirin.",
+              "Karışıma 1,5 su bardağı zeytinyağı ekleyin (istenirse daha az yağ da kullanılabilir, ancak çok kuru olmaması için toplamda 1 su bardağından az olmaması tavsiye edilir).",
+              "Karışımı homojen bir hale gelene kadar iyice karıştırarak biberli ekmek harcını hazır hale getirin.",
+              "Dilerseniz hamur yapımı ile uğraşmak istemiyorsanız, mahalle fırınından iki adet hazır ekmek hamuru alarak da kullanabilirsiniz.",
+              "Hamur için mayayı suda eritin, tuz ve unu ekleyip hamuru yoğurun.",
+              "Hamurun üzerini folyo ile kapatarak yaklaşık yarım saat mayalanmaya bırakın.",
+              "Mayası gelen hamurdan avuç içi kadar bezeler yapın, bezelerin kurumasını önlemek için üzerlerine kağıt havlu veya ekmek bezi koyarak 10-15 dakika daha bekletin.",
+              "Hamurun üzerine biberli ekmek harcını koyun ve 200 derecelik fırında yaklaşık 10 dakika pişirin."
+            ]
+          },
+          {
+            "tarif_adı": "Hatay Usulü Künefe",
+            "kategori": "tatlı",
+            "malzemeler": {
+              "kadayıf": "200 gr yaş kadayıf",
+              "künefe peyniri": "150 gr tuzsuz künefe peyniri",
+              "tereyağı": "3 yemek kaşığı",
+              "şerbeti için": {
+                "şeker": "1 su bardağı",
+                "su": "1 su bardağı",
+                "limon": "3 dilim"
+              }
+            },
+            "yapılışı": [
+              "Önce şerbet hazırlanır. Şeker ve su kaynamaya başladıktan sonra 3 dilim limon eklenir. 5 dakika daha kaynatıldıktan sonra ocaktan alınır ve ılımaya bırakılır.",
+              "3 yemek kaşığı tereyağı eritilir ve ince ince didiklenmiş kadayıfla iyice harmanlanır.",
+              "Kadayıf eşit bir şekilde ikiye bölünür. Teflon tavaya tereyağı ile yağlandıktan sonra yarısı tavaya yayılır ve iyice bastırılır.",
+              "Peynir ufalanır ve kadayıfın üstüne serpilir. Ayırdığımız kadayıf peynirin üzerine yayılır ve güzelce avuç içiyle bastırılır. Ne kadar sıkı bastırılırsa o kadar iyi olur. Kısık ateşte her yerin pişmesi sağlanır.",
+              "Daha sonra tavaya göre düz bir servis tabağı veya tepsi yardımıyla ters çevrilir. Aynı şekilde iyice pişmesi sağlanır.",
+              "Künefe sıcak, şerbet ılık olacak şekilde tüm künefeye şerbet dökülür. Hemen servis edilmezse hamurlaşır ve lezzeti azalır.",
+              "Her dilim servis tabağına alınır ve üzerine şerbet dökülerek servis edilir.",
+              "Not: Hatay künefesinin en önemli özellikleri tuzsuz peynir kullanılması, margarin değil el yapımı tereyağı kullanılması ve en meşhur özelliği közde pişirilmesidir."
+            ]
+          }
+ 
+    ]}

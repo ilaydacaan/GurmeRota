@@ -1,0 +1,45 @@
+{
+    "ARTVİN": [
+        {
+            "yemek_adi": "Kalaco",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Mısır Ekmeği": "1 adet bayat",
+              "Tereyağı": "4 kaşık",
+              "Soğan": "1 adet",
+              "Ayran": "4 bardak",
+              "Tuz": "Miktarına göre"
+            },
+            "yapilis": [
+              "İnce kıyılan soğan, tereyağında kavrulur.",
+              "İçerisine ayran ilave edilir ve karıştırılarak bir taşımlık kaynatılır.",
+              "Ufak ufak doğranan mısır ekmeği ve tuz içerisine eklenir.",
+              "10 dakika daha pişirildikten sonra 10 dakika kadar da dinlendirilir.",
+              "Sıcak bir şekilde servis edilir."
+            ]
+          },
+          {
+            "yemek_adi": "Yoğurtlu Silor-Sinor (Daha Önceden Kurutulmuş)",
+            "kategori": "ana yemek",
+            "malzemeler": {
+              "Silor": "1 paket",
+              "Tereyağı": "3-4 kaşık dolusu",
+              "Yoğurt": "3 kaşık dolusu",
+              "Sarımsak": "1-2 diş",
+              "Pul Biber": "İsteğe göre",
+              "Toz Kırmızı Biber": "İsteğe göre",
+              "Kaynar Su": "Miktarına göre"
+            },
+            "yapilis": [
+              "Öncelikle fırın 190 derecede ısınması için açılır.",
+              "Kaynayan suyu silorların üzerine dökülür ve iyice ıslatılır. Üzerine bastırılarak suyunu akıtılır.",
+              "Fırında 20 dakika kadar bekletilir.",
+              "Ayrı bir tavada tereyağı eritilir ve baharatlar eklenir. Biraz kızarınca ocaktan alınır.",
+              "Fırından silorlar çıkartılır ve üzerine yağ gezdirilir. Ardından yoğurt, sarımsak ve kalan yağ karışımı silorların üzerine dökülür.",
+              "Fırına geri konularak sadece 2 dakika pişirilir.",
+              "Afiyet olsun."
+            ]
+          }
+
+
+    ]}
