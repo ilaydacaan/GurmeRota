@@ -1,25 +1,34 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React, { useEffect, useState } from "react";
+import firebase from "firebase/compat/app";
+import "firebase/firestore";
 import { NavigationContainer } from '@react-navigation/native'
 import { createStackNavigator } from '@react-navigation/stack'
 import GirisYap from './src/screens/GirisYap'
 import KayitOl from './src/screens/KayitOl'
 import AcilisEkrani from './src/screens/AcilisEkrani'
-import Anasayfa from './src/screens/Anasayfa';
+import Anasayfa from './src/screens/Anasayfa'
+import YemekListe from './src/screens/YemekListe';
+//import deneme from './src/screens/deneme'
 import useAuth from './hooks/useAuth'
+
+
 
 const Stack = createStackNavigator();
 const App = () => {
+  //useProductLister();
   const user = useAuth();
   if (user) {
     return ( // bu kısımda artık giriş yaptıktan sonraki ana ekranı koyucaksın
       <NavigationContainer>
-        <Stack.Navigator initialRouteName='Anasayfa'
+        <Stack.Navigator initialRouteName='YemekListe'
           screenOptions={{ headerShown: false }}>
-            <Stack.Screen name="Anasayfa" component={Anasayfa} />
-          <Stack.Screen name="AcilisEkrani" component={AcilisEkrani} />
+            <Stack.Screen name="YemekListe" component={YemekListe} />
+            <Stack.Screen name="AcilisEkrani" component={AcilisEkrani} />
           <Stack.Screen name="GirisYap" component={GirisYap} />
           <Stack.Screen name="KayitOl" component={KayitOl} />
+          <Stack.Screen name="Anasayfa" component={Anasayfa} />
+          
         </Stack.Navigator>
       </NavigationContainer>
     )
