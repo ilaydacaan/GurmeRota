@@ -9,6 +9,9 @@ import KayitOl from './src/screens/KayitOl'
 import AcilisEkrani from './src/screens/AcilisEkrani'
 import Anasayfa from './src/screens/Anasayfa'
 import YemekListe from './src/screens/YemekListe';
+import SehirYemek from './src/screens/SehirYemek';
+import Profilim from './src/screens/Profilim';
+import AlisverisListesi from './src/screens/AlisverisListesi';
 //import deneme from './src/screens/deneme'
 import useAuth from './hooks/useAuth'
 
@@ -24,11 +27,18 @@ const App = () => {
         <Stack.Navigator initialRouteName='YemekListe'
           screenOptions={{ headerShown: false }}>
             <Stack.Screen name="YemekListe" component={YemekListe} />
-            <Stack.Screen name="AcilisEkrani" component={AcilisEkrani} />
+          <Stack.Screen name="AcilisEkrani" component={AcilisEkrani} />
+          <Stack.Screen name="Anasayfa" component={Anasayfa} />
+          <Stack.Screen name="Profilim" component={Profilim} />
+          <Stack.Screen name="SehirYemek" component={SehirYemek} />
+          <Stack.Screen name="AlisverisListesi" component={AlisverisListesi} />
+
           <Stack.Screen name="GirisYap" component={GirisYap} />
           <Stack.Screen name="KayitOl" component={KayitOl} />
-          <Stack.Screen name="Anasayfa" component={Anasayfa} />
+
           
+
+
         </Stack.Navigator>
       </NavigationContainer>
     )
