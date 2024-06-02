@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { View, Text, StyleSheet, ScrollView, ImageBackground, TouchableOpacity, Image, TextInput, Modal } from "react-native";
 import { useNavigation } from '@react-navigation/native';
 import { app, db, auth } from "C:/ilo Gurme Rota/config/firebase.js";
-import { getDocs, collection, doc, getDoc, updateDoc, setDoc } from "firebase/firestore";
+import { getDocs, collection, doc, getDoc, updateDoc, setDoc ,query, where} from "firebase/firestore";
 import { Picker } from '@react-native-picker/picker';
 import { FontAwesome } from '@expo/vector-icons';
 
@@ -110,15 +110,30 @@ const YemekListe = () => {
         return;
       }
   
-      const userRef = doc(db, "users", user.uid);
-      const userDoc = await getDoc(userRef);
+      const userEmail = user.email;
   
-      if (!userDoc.exists()) {
+      // Kullanıcının e-posta adresine göre kullanıcı belgesini sorgula
+      const usersRef = collection(db, "users");
+      const q = query(usersRef, where("email", "==", userEmail));
+      const querySnapshot = await getDocs(q);
+  
+      if (querySnapshot.empty) {
+        console.log("Kullanıcı belgesi bulunamadı.");
+        return;
+      }
+  
+      let userDocRef = null;
+      querySnapshot.forEach((doc) => {
+        userDocRef = doc.ref;
+      });
+  
+      if (!userDocRef) {
         console.log("Kullanıcı belgesi bulunamadı.");
         return;
       }
   
       // Kullanıcı belgesi bulunduğunda favorileri güncelle
+      const userDoc = await getDoc(userDocRef);
       const favoriler = userDoc.data().favoriler || [];
       const favoriYemek = {
         id: yemek.id,
@@ -127,7 +142,7 @@ const YemekListe = () => {
       };
       const updatedFavoriler = [...favoriler, favoriYemek];
   
-      await updateDoc(userRef, { favoriler: updatedFavoriler });
+      await updateDoc(userDocRef, { favoriler: updatedFavoriler });
       console.log("Yemek favorilere eklendi:", favoriYemek);
     } catch (error) {
       console.error("Favorilere eklenirken bir hata oluştu:", error);
